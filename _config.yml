@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: "Solving inverse problems with deep networks: New architectures, theoretical foundations, and applications"
 description: "NeurIPS 2019 workshop, Friday or Saturday December 13th/14th 2019, Vancouver, Canada"
+github:
+  is_project_page: false
