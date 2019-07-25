@@ -10,13 +10,13 @@ This workshop aims at bringing together theoreticians and practitioners in order
 
 # Confirmed Speakers
 
-- [Guillermo Sapiro] (https://ece.duke.edu/faculty/guillermo-sapiro) (Duke)
-- [Lenka Zdeborova] (http://artax.karlin.mff.cuni.cz/~zdebl9am/) (CEA Saclay)
-- [Laura Waller] (http://www.laurawaller.com/) (UC Berkeley)
-- [Michael Unser] (http://bigwww.epfl.ch/unser/) (EPFL)
-- [Raquel Urtasun] (http://www.cs.toronto.edu/~urtasun/) (University of Toronto)
-- [Josh Batson] (https://twitter.com/thebasepoint?lang=en) (MIT)
-- [Venkat Chandrasekaran] (http://users.cms.caltech.edu/~venkatc/) (Caltech)
+- [Guillermo Sapiro](https://ece.duke.edu/faculty/guillermo-sapiro) (Duke)
+- [Lenka Zdeborova](http://artax.karlin.mff.cuni.cz/~zdebl9am/) (CEA Saclay)
+- [Laura Waller](http://www.laurawaller.com/) (UC Berkeley)
+- [Michael Unser](http://bigwww.epfl.ch/unser/) (EPFL)
+- [Raquel Urtasun](http://www.cs.toronto.edu/~urtasun/) (University of Toronto)
+- [Josh Batson](https://twitter.com/thebasepoint?lang=en) (MIT)
+- [Venkat Chandrasekaran](http://users.cms.caltech.edu/~venkatc/) (Caltech)
 
 # Call for Papers and Submission Instructions
 We invite researchers to submit anonymous extended abstracts of up to 4 pages (excluding references) which will be considered for contributed talks and posters. No specific formatting is required. Authors may use the NeurIPS style file, or any other style as long as it has standard font size (11pt) and margins (1in).
