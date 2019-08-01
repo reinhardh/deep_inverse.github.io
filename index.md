@@ -21,7 +21,7 @@ This workshop aims at bringing together theoreticians and practitioners in order
 # Call for Papers and Submission Instructions
 We invite researchers to submit anonymous extended abstracts of up to 4 pages (excluding references) which will be considered for contributed talks and posters. No specific formatting is required. Authors may use the NeurIPS style file, or any other style as long as it has standard font size (11pt) and margins (1in).
 
-Submission on [openreview](https://openreview.org/) will be open soon.
+Submission at [openreview](https://openreview.net/group?id=NeurIPS.cc/2019/Workshop/Deep_Inverse) open now until the submission deadline on September 9.
 
 We invite works on inverse problems in the imaging sciences and new developments in non-Euclidean domains such as graphs, including contributions on the development of new architectures for natural signal priors (for examples GANs, non adversarially trained generators, unlearned neural networks, and combinations thereof), theoretical foundations (including rigorous recovery guarantees, provable convergence, and bounds on representation errors), and applications in imaging and beyond. We especially encourage submissions in the following areas:
 
