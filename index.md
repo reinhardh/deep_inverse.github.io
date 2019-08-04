@@ -15,7 +15,7 @@ This workshop aims at bringing together theoreticians and practitioners in order
 - [Laura Waller](http://www.laurawaller.com/) (UC Berkeley)
 - [Michael Unser](http://bigwww.epfl.ch/unser/) (EPFL)
 - [Raquel Urtasun](http://www.cs.toronto.edu/~urtasun/) (University of Toronto)
-- [Josh Batson](https://twitter.com/thebasepoint?lang=en) (MIT)
+- [Josh Batson](https://twitter.com/thebasepoint?lang=en) (Chan-Zuckerberg Biohub)
 - [Venkat Chandrasekaran](http://users.cms.caltech.edu/~venkatc/) (Caltech)
 
 # Call for Papers and Submission Instructions
