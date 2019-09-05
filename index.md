@@ -36,7 +36,7 @@ We invite works on inverse problems in the imaging sciences and new developments
 # Important Dates
 - Submission Deadline: September 9th, 2019
 - Notification: October 1st, 2019
-- Workshop: Either Friday, December 13 or Saturday, December 14, 2019, to be determined.
+- Workshop: Friday, December 13, 2019.
 
 # Organizers
 - [Reinhard Heckel](http://www.reinhardheckel.com/) (TUM)
