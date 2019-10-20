@@ -16,12 +16,12 @@ This workshop aims at bringing together theoreticians and practitioners in order
 ||Morning session|
 | 8:30 - 8:40 | Opening Remarks |
 | 8:40 - 9:10 | [Lenka Zdeborova](http://artax.karlin.mff.cuni.cz/~zdebl9am/): *The spiked matrix model with generative priors* |
-| 9:10 - 9:40 | Qiu, Wei, Yang: *Robust One-Bit Recovery via ReLU Generative Networks: Improved Statistical Rate and Global Landscape Analysis* |
+| 9:10 - 9:40 | [Shuang Qiu, Xiaohan Wei, Zhuoran Yang](): *Robust One-Bit Recovery via ReLU Generative Networks: Improved Statistical Rate and Global Landscape Analysis* |
 | 9:40 - 10:30 | Coffee Break |
 ||Pre-lunch session|
 | 10:30 - 11:00 | [Laura Waller](http://www.laurawaller.com/): *Computational microscopy in scattering media* |
 | 11:00 - 11:30 | [Guillermo Sapiro](https://ece.duke.edu/faculty/guillermo-sapiro): *Basis Decomposition of Deep Learning* |
-| 11:30 - 12:00 | Hoyer, Sohl-Dickstein, Greydanus: *Neural Reparameterization Improves Structural Optimization* |
+| 11:30 - 12:00 | [Stephan Hoyer, Jascha Sohl-Dickstein, Sam Greydanus](): *Neural Reparameterization Improves Structural Optimization* |
 | 12:00 - 2:00 | Lunch Break |
 ||Post-lunch session|
 | 2:00 - 2:30 | [Raquel Urtasun](http://www.cs.toronto.edu/~urtasun/) |
@@ -33,106 +33,106 @@ This workshop aims at bringing together theoreticians and practitioners in order
 
 # Accepted Papers
 
-- Neural reparameterization improves structural optimization
+- Neural reparameterization improves structural optimization  
 *Stephan Hoyer, Jascha Sohl-Dickstein, Sam Greydanus*
 
-- Robust One-Bit Recovery via ReLU Generative Networks: Improved Statistical Rate and Global Landscape Analysis
+- Robust One-Bit Recovery via ReLU Generative Networks: Improved Statistical Rate and Global Landscape Analysis  
 *Shuang Qiu, Xiaohan Wei, Zhuoran Yang*
 
-- Extreme Few-view CT Reconstruction using Deep Inference
+- Extreme Few-view CT Reconstruction using Deep Inference  
 *Hyojin Kim, Rushil Anirudh, K. Aditya Mohan, Kyle Champley*
 
-- Improving Limited Angle CT Reconstruction with a Robust GAN Prior
+- Improving Limited Angle CT Reconstruction with a Robust GAN Prior  
 *Rushil Anirudh, Hyojin Kim, Jayaraman J. Thiagarajan, K. Aditya Mohan, Kyle Champley*
 
-- A Hybrid Architecture for On-Device Compressive Machine Learning
+- A Hybrid Architecture for On-Device Compressive Machine Learning  
 *Yang Li, Thomas Strohmer*
 
-- Generative Models for Low-Dimensional Video Representation and Compressive Sensing
+- Generative Models for Low-Dimensional Video Representation and Compressive Sensing  
 *Rakib Hyder, M. Salman Asif*
 
-- PatchDIP Exploiting Patch Redundancy in Deep Image Prior for Denoising
+- PatchDIP Exploiting Patch Redundancy in Deep Image Prior for Denoising  
 *Muhammad Asim, Fahad Shamshad, Ali Ahmed*
 
-- Auto-encoders for compressed sensing
+- Auto-encoders for compressed sensing  
 *Pei Peng, Shirin Jalali, Xin Yuan*
 
-- Compressed Sensing and Overparametrized Networks: Overfitting Peaks in a Model of Misparametrized Sparse Regression in the Interpolation Limit
+- Compressed Sensing and Overparametrized Networks: Overfitting Peaks in a Model of Misparametrized Sparse Regression in the Interpolation Limit  
 *Partha P Mitra*
 
-- Lower Bounds for Compressed Sensing with Generative Models
+- Lower Bounds for Compressed Sensing with Generative Models  
 *Akshay Kamath, Sushrut Karmalkar, Eric Price*
 
-- Y-net: A Physics-constrained and Semi-supervised Learning Approach to the Phase Problem in Computational Electron Imaging
+- Y-net: A Physics-constrained and Semi-supervised Learning Approach to the Phase Problem in Computational Electron Imaging  
 *Nouamane Laanait, Junqi Yin, Albina Borisevich*
 
-- Unsupervised Deep Basis Pursuit: Learning inverse problems without ground-truth data
+- Unsupervised Deep Basis Pursuit: Learning inverse problems without ground-truth data  
 *Jonathan I. Tamir, Stella X. Yu, Michael Lustig*
 
-- AlgoNet: $C^\infty$ Smooth Algorithmic Neural Networks for Solving Inverse Problems
+- AlgoNet: $C^\infty$ Smooth Algorithmic Neural Networks for Solving Inverse Problems  
 *Felix Petersen, Christian Borgelt, Oliver Deussen*
 
-- Retrieving Signals with Deep Complex Extractors 
+- Retrieving Signals with Deep Complex Extractors  
 *Chiheb Trabelsi, Olexa Bilaniuk, Ousmane Dia, Ying Zhang, Mirco Ravanelli, Jonathan Binas, Negar Rostamzadeh, Christopher J Pal*
 
-- Unrolled, model-based networks for lensless imaging
+- Unrolled, model-based networks for lensless imaging  
 *Kristina Monakhova, Joshua Yurtsever, Grace Kuo, Nick Antipa, Kyrollos Yanny, Laura Waller*
 
-- GAN priors for Bayesian inference
+- GAN priors for Bayesian inference  
 *Dhruv V. Patel, Assad A. Oberai*
 
-- Learning Network Parameters in the ReLU Model
+- Learning Network Parameters in the ReLU Model  
 *Arya Mazumdar, Ankit Singh Rawat*
 
-- Learned imaging with constraints and uncertainty quantification
+- Learned imaging with constraints and uncertainty quantification  
 *Felix J. Herrmann, Ali Siahkoohi, Gabrio Rizzuti*
 
-- Generative Inpainting Network Applications on Seismic Image Compression and Non-Uniform Sampling
+- Generative Inpainting Network Applications on Seismic Image Compression and Non-Uniform Sampling  
 *Xiaoyang Rebecca Li, Nikolaos Mitsakos, Ping Lu, Yuan Xiao, Cheng Zhan, Xing Zhao*
 
-- Exploring Properties of the Deep Image Prior
+- Exploring Properties of the Deep Image Prior  
 *Andreas Kattamis, Adrian Weller*
 
-- Learning-Based Low-Rank Approximations
+- Learning-Based Low-Rank Approximations  
 *Piotr Indyk, Ali Vakilian, Yang Yuan*
 
-- Sample Complexity Lower Bounds for Compressive Sensing with Generative Models
+- Sample Complexity Lower Bounds for Compressive Sensing with Generative Models  
 *Zhaoqiang Liu, Jonathan Scarlett*
 
-- Energy Dissipation with Plug-and-Play Priors
+- Energy Dissipation with Plug-and-Play Priors  
 *Hendrik Sommerhoff, Andreas Kolb, Michael Moeller*
 
-- Precise asymptotics for phase retrieval and compressed sensing with random generative priors
+- Precise asymptotics for phase retrieval and compressed sensing with random generative priors  
 *Benjamin Aubin, Bruno Loureiro, Antoine Baker, Florent Krzakala, Lenka Zdeborova*
 
-- Learning to Recover Sparse Signals
+- Learning to Recover Sparse Signals  
 *Sichen Zhong, Yue Zhao, Jianshu Chen*
 
-- Subsampled Fourier Ptychography via Pretrained Invertible and Untrained Network Priors
+- Subsampled Fourier Ptychography via Pretrained Invertible and Untrained Network Priors  
 *Fahad Shamshad, Asif Hanif, Ali Ahmed*
 
-- Learning to Solve Linear Inverse Problems in Imaging with Neumann Networks
+- Learning to Solve Linear Inverse Problems in Imaging with Neumann Networks  
 *Davis Gilton, Greg Ongie, Rebecca Willett*
 
-- Robust and interpretable blind image denoising via bias-free convolutional neural networks
+- Robust and interpretable blind image denoising via bias-free convolutional neural networks  
 *Zahra Kadkhodaie, Sreyas Mohan, Eero P. Simoncelli, Carlos Fernandez-Granda*
 
-- Phase Retrieval using Untrained Neural Network Priors
+- Phase Retrieval using Untrained Neural Network Priors  
 *Gauri Jagatap, Chinmay Hegde* 
 
-- A GAN based solver of black-box inverse problems
+- A GAN based solver of black-box inverse problems  
 *Michael Gillhofer, Hubert Ramsauer, Johannes Brandstetter, Sepp Hochreiter*
 
-- Co-Generation with GANs using AIS based HMC
+- Co-Generation with GANs using AIS based HMC  
 *Tiantian Fang, Alexander G. Schwing*
 
-- Memory-efficient Learning for Large-scale Computational Imaging
+- Memory-efficient Learning for Large-scale Computational Imaging  
 *Michael Kellman, Jon Tamir, Emrah Bostan, Michael Lustig, Laura Waller*
 
-- Gradient-Based Neural DAG Learning
+- Gradient-Based Neural DAG Learning  
 *Sébastien Lachapelle, Philippe Brouillard, Tristan Deleu, Simon Lacoste-Julien*
 
-- Low Shot Learning with Untrained Neural Networks for Imaging Inverse Problems
+- Low Shot Learning with Untrained Neural Networks for Imaging Inverse Problems  
 *Oscar Leong, Wesam Sakla*
 
 
