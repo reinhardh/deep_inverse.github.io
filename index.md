@@ -8,6 +8,31 @@ However, the field is mostly wide open with a range of theoretical and practical
 
 This workshop aims at bringing together theoreticians and practitioners in order to chart out recent advances and discuss new directions in deep neural network based approaches for solving inverse problems in the imaging and network sciences.
 
+
+# Schedule
+
+| Time | Event |
+| --- | --- |
+||Morning session|
+| 8:30 - 8:40 | Opening Remarks |
+| 8:40 - 9:10 | [Lenka Zdeborova](http://artax.karlin.mff.cuni.cz/~zdebl9am/): *The spiked matrix model with generative priors * |
+| 9:10 - 9:40 | Qiu, Wei, Yang: *Robust One-Bit Recovery via ReLU Generative Networks: Improved Statistical Rate and Global Landscape Analysis* |
+| 9:40 - 10:30 | Coffee Break |
+||Pre-lunch session|
+| 10:30 - 11:00 | [Laura Waller](http://www.laurawaller.com/): *Computational microscopy in scattering media* |
+| 11:00 - 11:30 | [Guillermo Sapiro](https://ece.duke.edu/faculty/guillermo-sapiro): *Basis Decomposition of Deep Learning* |
+| 11:30 - 12:00 | Hoyer, Sohl-Dickstein, Greydanus: 	Neural Reparameterization Improves Structural Optimization|
+| 12:00 - 2:00 | Lunch Break |
+||Post-lunch session|
+| 2:00 - 2:30 | [Raquel Urtasun](http://www.cs.toronto.edu/~urtasun/) |
+| 2:30 - 3:00 | [Josh Batson](https://twitter.com/thebasepoint?lang=en): *Blind Denoising, Self-Supervision, and Implicit Inverse Problems* |
+| 3:00 - 3:30 | [Venkat Chandrasekaran](http://users.cms.caltech.edu/~venkatc/): *Learning Regularizers from Data* |
+| 3:30 - 4:15 | Break and Posters |
+||Afternoon session|
+| 4:15 - 6:00 | Poster Session | 
+
+
+<!---
 # Confirmed Speakers
 
 - [Guillermo Sapiro](https://ece.duke.edu/faculty/guillermo-sapiro) (Duke)
@@ -17,6 +42,8 @@ This workshop aims at bringing together theoreticians and practitioners in order
 - [Raquel Urtasun](http://www.cs.toronto.edu/~urtasun/) (University of Toronto)
 - [Josh Batson](https://twitter.com/thebasepoint?lang=en) (Chan-Zuckerberg Biohub)
 - [Venkat Chandrasekaran](http://users.cms.caltech.edu/~venkatc/) (Caltech)
+-->
+
 
 # Call for Papers and Submission Instructions
 We invite researchers to submit anonymous extended abstracts of up to 4 pages (excluding references) which will be considered for contributed talks and posters. No specific formatting is required. Authors may use the NeurIPS style file, or any other style as long as it has standard font size (11pt) and margins (1in).
