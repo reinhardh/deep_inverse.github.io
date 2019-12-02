@@ -24,7 +24,7 @@ This workshop aims at bringing together theoreticians and practitioners in order
 | 11:30 - 12:00 | [Stephan Hoyer, Jascha Sohl-Dickstein, Sam Greydanus](): *Neural Reparameterization Improves Structural Optimization* |
 | 12:00 - 2:00 | Lunch Break |
 ||Post-lunch session|
-| 2:00 - 2:30 | [Raquel Urtasun](http://www.cs.toronto.edu/~urtasun/) |
+| 2:00 - 2:30 | [Piotr Indyk](https://people.csail.mit.edu/indyk/): *Learning-Based Low-Rank Approximations* |
 | 2:30 - 3:00 | [Josh Batson](https://twitter.com/thebasepoint?lang=en): *Blind Denoising, Self-Supervision, and Implicit Inverse Problems* |
 | 3:00 - 3:30 | [Venkat Chandrasekaran](http://users.cms.caltech.edu/~venkatc/): *Learning Regularizers from Data* |
 | 3:30 - 4:15 | Break and Posters |
