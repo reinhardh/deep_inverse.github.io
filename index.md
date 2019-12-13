@@ -20,7 +20,7 @@ This workshop aims at bringing together theoreticians and practitioners in order
 | 9:40 - 10:30 | Coffee Break |
 ||Pre-lunch session|
 | 10:30 - 11:00 | [Laura Waller](http://www.laurawaller.com/): *Computational microscopy in scattering media* |
-| 11:00 - 11:30 | [Guillermo Sapiro](https://ece.duke.edu/faculty/guillermo-sapiro): *Basis Decomposition of Deep Learning* |
+| 11:00 - 11:30 | [Mahdi Soltanolkotabi](https://viterbi-web.usc.edu/~soltanol/): *Denoising via Early Stopping* |
 | 11:30 - 12:00 | [Stephan Hoyer, Jascha Sohl-Dickstein, Sam Greydanus](): *Neural Reparameterization Improves Structural Optimization* |
 | 12:00 - 2:00 | Lunch Break |
 ||Post-lunch session|
