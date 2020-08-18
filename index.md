@@ -151,9 +151,9 @@ This virtual workshop aims at bringing together theoreticians and practitioners 
 
 # Call for Papers and Submission Instructions
 
-We invite researchers to submit anonymous papers of up to 4 pages (excluding references and appendices) which will be considered for contributed workshop papers. No specific formatting is required. Authors are encouraged to use NeurIPS style file, but they may use any other style as long as it has standard font size (11pt) and margins (1in).
+We invite researchers to submit anonymous papers of up to 4 pages (excluding references and appendices) which will be considered for contributed workshop papers. No specific formatting is required. Authors are encouraged to use the [NeurIPS style file](https://nips.cc/Conferences/2020/PaperInformation/StyleFiles), but they may use any other style as long as it has standard font size (11pt) and margins (1in).
 
-Submission at openreview will soon be open until the until the submission deadline on October 2, 2020.
+Submission at OpenReview will soon be open until the until the submission deadline on October 2, 2020.
 
 We welcome all submission in the intersection of inverse problems and deep learning including contributions related to robustness and biases, neural network architectures, regularization, optimization methods, datasets, theoretical foundations (including rigorous recovery guarantees, provable convergence, and bounds on representation errors),  untrained methods, generative models, end-to-end methods, and applications in imaging, time series, and beyond. We especially encourage submissions related to the following questions:
 
@@ -171,8 +171,8 @@ We welcome all submission in the intersection of inverse problems and deep learn
 # Organizers
 - [Reinhard Heckel](http://www.reinhardheckel.com/) (TUM)
 - [Paul Hand](http://khoury.northeastern.edu/home/hand/) (Northeastern)
-- [Richard Baraniuk](http://richb.rice.edu/) (Rice University)
 - [Soheil Feizi](https://www.cs.umd.edu/~sfeizi/) (UMD)
 - [Lenka Zdeborova](http://artax.karlin.mff.cuni.cz/~zdebl9am/) (CEA/SACLAY)
+- [Richard Baraniuk](http://richb.rice.edu/) (Rice University)
 
 Please email [deepinverse@gmail.com](mailto:deepinverse@gmail.com) with any questions.
