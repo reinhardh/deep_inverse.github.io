@@ -6,28 +6,36 @@ The field has a range of theoretical and practical questions that remain unanswe
 
 This virtual workshop aims at bringing together theoreticians and practitioners in order to chart out recent advances and discuss new directions in deep neural network-based approaches for solving inverse problems in the imaging sciences and beyond.
 
-<!---
+
 # Schedule
+
+The workshop schedule is aligned with 7:30 AM to 4 PM PT; please see this [converter](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Deep+Inverse+Workshop&iso=20201211T0730&p1=256&ah=8&am=30) for conversion to your specific time zone.
+
 
 | Time | Event |
 | --- | --- |
-||Morning session|
-| 8:30 - 8:40 | Opening Remarks |
-| 8:40 - 9:10 | [Lenka Zdeborova](http://artax.karlin.mff.cuni.cz/~zdebl9am/): *The spiked matrix model with generative priors* |
-| 9:10 - 9:40 | [Shuang Qiu, Xiaohan Wei, Zhuoran Yang](): *Robust One-Bit Recovery via ReLU Generative Networks: Improved Statistical Rate and Global Landscape Analysis* |
-| 9:40 - 10:30 | Coffee Break |
-||Pre-lunch session|
-| 10:30 - 11:00 | [Laura Waller](http://www.laurawaller.com/): *Computational microscopy in scattering media* |
-| 11:00 - 11:30 | [Mahdi Soltanolkotabi](https://viterbi-web.usc.edu/~soltanol/): *Denoising via Early Stopping* |
-| 11:30 - 12:00 | [Stephan Hoyer, Jascha Sohl-Dickstein, Sam Greydanus](): *Neural Reparameterization Improves Structural Optimization* |
-| 12:00 - 2:00 | Lunch Break |
-||Post-lunch session|
-| 2:00 - 2:30 | [Piotr Indyk](https://people.csail.mit.edu/indyk/): *Learning-Based Low-Rank Approximations* |
-| 2:30 - 3:00 | [Josh Batson](https://twitter.com/thebasepoint?lang=en): *Blind Denoising, Self-Supervision, and Implicit Inverse Problems* |
-| 3:00 - 3:30 | [Venkat Chandrasekaran](http://users.cms.caltech.edu/~venkatc/): *Learning Regularizers from Data* |
-| 3:30 - 4:15 | Break and Posters |
-||Afternoon session|
-| 4:15 - 6:00 | Poster Session | 
+| 7:30 | Newcomer presentation |
+| 7:55 | Opening Remarks |
+| 8:00 | Victor Lempinsky: *TBD* |
+| 8:30 | Thomas Pock: *TBD* |
+| 9:00 | Contributed talk 1 and Q&A |
+| 9:15 | Contributed talk 2 and Q&A |
+| 9:30 | Break and Discussion with Victor Lempinsky, Thomas Pock, and Erich Kobler |
+| 10:00 | Rebecca Willett: *TBD* |
+| 10:30 | Stefano Emron: *TBD* |
+| 11:00 | Contributed talk 3 and Q&A |
+| 11:15 | Contributed talk 4 and Q&A |
+| 11:30 | Discussion with Rebecca Willett and Stefano Emron |
+| 12:00 | Break  |
+| 1:00 |  Poster session |
+| 2:00 |  Peyman Milanfar |
+| 2:30 | Rachel Ward |
+| 3:00 | Larry Zitnick |
+| 3:30 | Discussion with Peyman Milanfar, Rachel Ward, and Larry Zitnick |
+| 4:00 | End of official program |
+
+
+<--
 
 # Accepted Papers
 
@@ -149,9 +157,9 @@ This virtual workshop aims at bringing together theoreticians and practitioners 
 
 # Call for Papers and Submission Instructions
 
-We invite researchers to submit anonymous papers of up to 4 pages (excluding references and appendices) which will be considered for contributed workshop papers. No specific formatting is required. Authors are encouraged to use the [NeurIPS style file](https://nips.cc/Conferences/2020/PaperInformation/StyleFiles), but they may use any other style as long as it has standard font size (11pt) and margins (1in).
+We invite researchers to submit anonymous papers of up to 4 pages (excluding references and appendices) which will be considered for contributed workshop papers. No specific formatting is required. Authors are encouraged to use the [NeurIPS style file](https://nips.cc/Conferences/2020/PaperInformation/StyleFiles), but they may use any other style as long as it has standard font size (11pt) and margins (1in). The paper can have an appendix of unlimited lenght.
 
-Submission at [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2020/Workshop/Deep_Inverse) will be open from Sep. 1 until the submission deadline on October 2, 2020.
+Submission at [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2020/Workshop/Deep_Inverse) will be open from Sep. 1 until the submission deadline on October 9, 2020.
 
 We welcome all submission in the intersection of inverse problems and deep learning including contributions related to robustness and biases, neural network architectures, regularization, optimization methods, datasets, theoretical foundations (including rigorous recovery guarantees, provable convergence, and bounds on representation errors),  untrained methods, generative models, end-to-end methods, and applications in imaging, time series, and beyond. We especially encourage submissions related to the following questions:
 
@@ -162,9 +170,9 @@ We welcome all submission in the intersection of inverse problems and deep learn
 - Untrained neural networks such as the deep image prior have shown that neural networks alone, without any learning, can give excellent reconstruction performance. How important is training on the target distribution for imaging performance and is it possible to achieve state-of-the art performance without training?
 
 # Important Dates
-- Submission Deadline: October 2, 2020.
+- Submission Deadline: Extended to October 9, 2020.
 - Notification: October 23, 2020.
-- Workshop: Friday December 11 or Saturday December 12, 2020. Final date will be announced soon.
+- Workshop: Friday December 11
 
 # Organizers
 - [Reinhard Heckel](http://www.reinhardheckel.com/) (TUM)
