@@ -63,7 +63,7 @@ We welcome all submission in the intersection of inverse problems and deep learn
 - Untrained neural networks such as the deep image prior have shown that neural networks alone, without any learning, can give excellent reconstruction performance. How important is training on the target distribution for imaging performance and is it possible to achieve state-of-the art performance without training?
 
 # Important Dates
-- Submission Deadline: Extended to October 9, 2020.
+- Submission Deadline: Extended to **October 12, 2020** (this is the final deadline).
 - Notification: October 23, 2020.
 - Workshop: Friday December 11
 
