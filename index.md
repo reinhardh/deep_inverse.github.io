@@ -50,7 +50,7 @@ The workshop schedule is aligned with 7:30 AM to 4 PM PT; please see this [conve
 
 # Call for Papers and Submission Instructions
 
-We invite researchers to submit anonymous papers of up to 4 pages (excluding references and appendices) which will be considered for contributed workshop papers. No specific formatting is required. Authors are encouraged to use the [workshop edition of the NeurIPS style file](https://deep-inverse.org/downloads/document.pdf), but they may use any other style as long as it has standard font size (11pt) and margins (1in). The paper can have an appendix of unlimited lenght.
+We invite researchers to submit anonymous papers of up to 4 pages (excluding references and appendices) which will be considered for contributed workshop papers. No specific formatting is required. Authors are encouraged to use the [workshop edition of the NeurIPS style file](https://deep-inverse.org/downloads/NeurIPSDeepInverseStyle.zip), but they may use any other style as long as it has standard font size (11pt) and margins (1in). The paper can have an appendix of unlimited lenght.
 
 Submission at [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2020/Workshop/Deep_Inverse) will be open from Sep. 1 until the submission deadline on October 9, 2020.
 
