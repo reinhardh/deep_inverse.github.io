@@ -50,7 +50,7 @@ The workshop schedule is aligned with 7:30 AM to 4 PM PT; please see this [conve
 
 # Call for Papers and Submission Instructions
 
-We invite researchers to submit anonymous papers of up to 4 pages (excluding references and appendices) which will be considered for contributed workshop papers. No specific formatting is required. Authors are encouraged to use the [NeurIPS style file](https://nips.cc/Conferences/2020/PaperInformation/StyleFiles), but they may use any other style as long as it has standard font size (11pt) and margins (1in). The paper can have an appendix of unlimited lenght.
+We invite researchers to submit anonymous papers of up to 4 pages (excluding references and appendices) which will be considered for contributed workshop papers. No specific formatting is required. Authors are encouraged to use the [workshop edition of the NeurIPS style file](https://deep-inverse.org/downloads/document.pdf), but they may use any other style as long as it has standard font size (11pt) and margins (1in). The paper can have an appendix of unlimited lenght.
 
 Submission at [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2020/Workshop/Deep_Inverse) will be open from Sep. 1 until the submission deadline on October 9, 2020.
 
@@ -63,6 +63,7 @@ We welcome all submission in the intersection of inverse problems and deep learn
 - Untrained neural networks such as the deep image prior have shown that neural networks alone, without any learning, can give excellent reconstruction performance. How important is training on the target distribution for imaging performance and is it possible to achieve state-of-the art performance without training?
 
 # Important Dates
+- Submit the final version and poster by **December 1, 2020** at [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2020/Workshop/Deep_Inverse)
 - Submission Deadline: Extended to **October 12, 2020** (this is the final deadline).
 - Notification: October 23, 2020.
 - Workshop: Friday December 11
