@@ -16,7 +16,7 @@ The workshop schedule is aligned with 7:30 AM to 4 PM PT; please see this [conve
 | --- | --- |
 | 7:30 | Newcomer presentation |
 | 7:55 | Opening Remarks |
-| 8:00 | Victor Lempinsky: *TBD* |
+| 8:00 | Victor Lempitsky *TBD* |
 | 8:30 | Thomas Pock: *TBD* |
 | 9:00 | Contributed talk 1 and Q&A |
 | 9:15 | Contributed talk 2 and Q&A |
