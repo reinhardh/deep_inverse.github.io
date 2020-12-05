@@ -16,36 +16,28 @@ The workshop schedule is aligned with 7:30 AM to 4 PM PT; please see this [conve
 | --- | --- |
 | 7:30 | Newcomer presentation |
 | 7:55 | Opening Remarks |
-| 8:00 | Victor Lempitsky *TBD* |
-| 8:30 | Thomas Pock: *TBD* |
-| 9:00 | Contributed talk 1 and Q&A |
-| 9:15 | Contributed talk 2 and Q&A |
+| 8:00 | [Victor Lempitsky](http://sites.skoltech.ru/compvision/members/vilem/) (Skoltech): Generative Models for Landscapes and Avatars |
+| 8:30 | [Thomas Pock](https://www.tugraz.at/institute/icg/research/team-pock/people/pock/) (TU Graz): Variational Networks |
+| 9:00 | Contributed talk 1: Vineet Edupuganti, Morteza Mardani, Shreyas Vasanawala, John M. Pauly: Risk Quantification in Deep MRI Reconstruction|
+| 9:15 | Contributed talk 2: Sungmin Cha, Taeeon Park, Byeongjoon Kim, Jongduk Baek, Taesup Moon: GAN2GAN: Generative Noise Learning for Blind Denoising with Single Noisy Images |
 | 9:30 | Break and Discussion with Victor Lempinsky, Thomas Pock, and Erich Kobler |
-| 10:00 | Rebecca Willett: *TBD* |
-| 10:30 | Stefano Emron: *TBD* |
-| 11:00 | Contributed talk 3 and Q&A |
-| 11:15 | Contributed talk 4 and Q&A |
+| 10:00 | [Rebecca Willett](https://voices.uchicago.edu/willett/) (University of Chicago): Model Adaptation for Inverse Problems in Imaging |
+| 10:30 | [Stefano Emron](https://cs.stanford.edu/~ermon/) (Stanford): Generative Modeling via Denoising |
+| 11:00 | Contributed talk 3: Ajil Jalal, Sushrut Karmalkar, Alex Dimakis, Eric Price: Compressed Sensing with Approximate Priors via Conditional Resampling |
+| 11:15 | Chris Metzler: Approximate Message Passing (AMP) Algorithms for Computational Imaging |
 | 11:30 | Discussion with Rebecca Willett and Stefano Emron |
 | 12:00 | Break  |
 | 1:00 |  Poster session |
-| 2:00 |  Peyman Milanfar |
-| 2:30 | Rachel Ward |
-| 3:00 | Larry Zitnick |
+| 2:00 |  [Peyman Milanfar](https://sites.google.com/view/milanfarhome/) (Google) - Denoising as Building Block Theory and Applications |
+| 2:30 | [Rachel Ward](https://www.oden.utexas.edu/people/1143/) (UT Austin) |
+| 3:00 | [Larry Zitnick](http://larryzitnick.org/) (Facebook AI Reseach) - fastMRI |
 | 3:30 | Discussion with Peyman Milanfar, Rachel Ward, and Larry Zitnick |
 | 4:00 | End of official program |
 
 
+# Accepted papers
 
-
-# Confirmed Speakers
-
-- [Stefano Emron](https://cs.stanford.edu/~ermon/) (Stanford)
-- [Victor Lempitsky](http://sites.skoltech.ru/compvision/members/vilem/) (Skoltech)
-- [Peyman Milanfar](https://sites.google.com/view/milanfarhome/) (Google)
-- [Thomas Pock](https://www.tugraz.at/institute/icg/research/team-pock/people/pock/) (TU Graz)
-- [Rachel Ward](https://www.oden.utexas.edu/people/1143/) (UT Austin)
-- [Rebecca Willett](https://voices.uchicago.edu/willett/) (University of Chicago)
-- [Larry Zitnick](http://larryzitnick.org/) (Facebook AI Reseach)
+All accepted papers are available [here](https://openreview.net/group?id=NeurIPS.cc/2020/Workshop/Deep_Inverse). 
 
 
 # Call for Papers and Submission Instructions
