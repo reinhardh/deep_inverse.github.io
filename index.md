@@ -100,6 +100,7 @@ Vineet Edupuganti, Morteza Mardani, Shreyas Vasanawala, John M. Pauly
 Zahra Kadkhodaie, Eero Peter Simoncelli
 
 18. [Towards Neurally Augmented ALISTA](https://openreview.net/pdf?id=ysONncbu1z)\
+Freya Behrens, Jonathan Sauder, Peter Jung
 
 19. [Uncertainty-Driven Adaptive Sampling via GANs](https://openreview.net/forum?id=lWLYCQmtvW)\
 Thomas Sanchez, Igor Krawczuk, Zhaodong Sun, Volkan Cevher
