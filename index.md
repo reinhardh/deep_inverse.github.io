@@ -45,7 +45,70 @@ The poster session is also on gather.town. The gather.town link is accessible th
 
 # Accepted papers
 
-All accepted papers are available [here](https://openreview.net/group?id=NeurIPS.cc/2020/Workshop/Deep_Inverse). 
+All accepted papers are available [on openreview](https://openreview.net/group?id=NeurIPS.cc/2020/Workshop/Deep_Inverse#accept-poster):
+
+
+1. [Approximate Probabilistic Inference with Composed Flows](https://openreview.net/forum?id=qMIW5nuCjwL)\
+Jay Whang, Erik Lindgren, Alex Dimakis
+
+2. [Bayesian Inference in Physics-Driven Problems with Adversarial Priors](https://openreview.net/forum?id=P-0ae-EbP8)\
+Dhruv V Patel, Deep Ray, Harisankar Ramaswamy, Assad Oberai
+
+3. [Compressed Sensing with Approximate Priors via Conditional Resampling](https://openreview.net/forum?id=8ozSD4Oymw)\
+Ajil Jalal, Sushrut Karmalkar, Alex Dimakis, Eric Price
+
+4. [Compressed Sensing with Invertible Generative Models and Dependent Noise](https://openreview.net/forum?id=8R5nxDkbwE)\
+Jay Whang, Qi Lei, Alex Dimakis
+
+5. [Deep Learning for Plasma Tomography in Nuclear Fusion](https://openreview.net/forum?id=fuB3vZdTh0)\
+Diogo R. Ferreira, Pedro J. Carvalho
+
+6. [Deep Learning Initialized Phase Retrieval](https://openreview.net/forum?id=gv4I5IfJHP)\
+Raunak Manekar, Zhong Zhuang, Kshitij Tayal, Vipin Kumar, Ju Sun
+
+7. [Denoising Score-Matching for Uncertainty Quantification in Inverse Problems](https://openreview.net/forum?id=GpwoGZNeUC)\
+Zaccharie Ramzi, Benjamin Remy, Francois Lanusse, Jean-Luc Starck, Philippe Ciuciu
+
+8. [GAN2GAN: Generative Noise Learning for Blind Denoising with Single Noisy Images](https://openreview.net/forum?id=79TQKu3bXd)\
+Sungmin Cha, Taeeon Park, Byeongjoon Kim, Jongduk Baek, Taesup Moon
+
+9. [Generative Tomography Reconstruction](https://openreview.net/forum?id=5gs_SxdLozM)\
+Matteo Ronchetti, Davide Bacciu
+
+10. [Generator Surgery for Compressed Sensing](https://openreview.net/forum?id=s2EucjZ6d2s)\
+Jung Yeon Park, Niklas Smedemark-Margulies, Max Daniels, Rose Yu, Jan-Willem van de Meent, Paul Hand
+
+11. [Intermediate Layer Optimization for Inverse Problems using Deep Generative Models](https://openreview.net/forum?id=232ut-SyVR)\
+Joseph Dean, Giannis Daras, Alex Dimakis
+
+12. [Learning Spectral Regularizations for Linear Inverse Problems](https://openreview.net/forum?id=lUgF584nOSY)\
+Hartmut Bauermeister, Martin Burger, Michael Moeller
+
+13. [Learning to Sample MRI via Variational Information Maximization](https://openreview.net/forum?id=1AOReNkDmh_)\
+Cagan Alkan, Morteza Mardani, Shreyas Vasanawala, John M. Pauly
+
+14. [Likelihood-Free Inference with Deep Gaussian Processes](https://openreview.net/forum?id=SiovfW3wF1e)\
+Alexander Aushev, Henri Pesonen, Markus Heinonen, Jukka Corander, Samuel Kaski
+
+15. [Quantifying Sources of Uncertainty in Deep Learning-Based Image Reconstruction](https://openreview.net/forum?id=iUGcSYdJogv)\
+Riccardo Barbano, Zeljko Kereta, Chen Zhang, Andreas Hauptmann, Simon Arridge, Bangti Jin
+
+16. [Risk Quantification in Deep MRI Reconstruction](https://openreview.net/forum?id=ccBn_ZIuRHT)\
+Vineet Edupuganti, Morteza Mardani, Shreyas Vasanawala, John M. Pauly
+
+17. [Solving Linear Inverse Problems Using the Prior Implicit in a Denoiser](https://openreview.net/forum?id=RLN7K4U3UST)\
+Zahra Kadkhodaie, Eero Peter Simoncelli
+
+18. [Towards Neurally Augmented ALISTA](https://openreview.net/pdf?id=ysONncbu1z)\
+
+19. [Uncertainty-Driven Adaptive Sampling via GANs](https://openreview.net/forum?id=lWLYCQmtvW)\
+Thomas Sanchez, Igor Krawczuk, Zhaodong Sun, Volkan Cevher
+
+20. [Unlocking Inverse Problems Using Deep Learning: Breaking Symmetries in Phase Retrieval](https://openreview.net/forum?id=oyhGIytV1S)\
+Kshitij Tayal, Chieh-Hsin Lai, Raunak Manekar, Zhong Zhuang, Vipin Kumar, Ju Sun
+
+
+
 
 
 # Call for Papers and Submission Instructions
