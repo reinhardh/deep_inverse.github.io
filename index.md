@@ -11,6 +11,14 @@ This virtual workshop aims at bringing together theoreticians and practitioners 
 
 The workshop schedule is aligned with 7:30 AM to 4 PM PT; please see this [converter](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Deep+Inverse+Workshop&iso=20201211T0730&p1=256&ah=8&am=30) for conversion to your specific time zone.
 
+The workshop is livestreamed at [the NeurIPS workshop webpage](https://neurips.cc/virtual/2020/protected/workshop_16113.html). To access this website you need to register for the conference at [https://neurips.cc/](https://neurips.cc/) and be logged in. 
+
+The videos of the talk can also be previewed as of now through [the NeurIPS workshop webpage](https://neurips.cc/virtual/2020/protected/workshop_16113.html). The livestream will play the videos, and each of the talks is followed by a live discussion. You can attend the live discussion either through the live stream or you can join the zoom session. Questions should be asked through rocketchat, and a co-organizer will moderate.
+
+During the designated discussion sessions you can talk to the respective speakers in gather.town. To get the gather.town link, visit the official NeurIPS schedule at [the NeurIPS workshop webpage](https://neurips.cc/virtual/2020/protected/workshop_16113.html).
+
+The poster session is also on gather.town. The gather.town link is accessible through the [the NeurIPS workshop webpage](https://neurips.cc/virtual/2020/protected/workshop_16113.html).
+
 
 | Time | Event |
 | --- | --- |
