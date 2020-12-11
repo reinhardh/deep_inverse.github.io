@@ -30,7 +30,7 @@ The poster session is also on gather.town. The gather.town link is accessible th
 | 9:15 | Contributed talk 2: Sungmin Cha, Taeeon Park, Byeongjoon Kim, Jongduk Baek, Taesup Moon: GAN2GAN: Generative Noise Learning for Blind Denoising with Single Noisy Images |
 | 9:30 | Break and Discussion with Victor Lempinsky, Thomas Pock, and Erich Kobler |
 | 10:00 | [Rebecca Willett](https://voices.uchicago.edu/willett/) (University of Chicago): Model Adaptation for Inverse Problems in Imaging |
-| 10:30 | [Stefano Emron](https://cs.stanford.edu/~ermon/) (Stanford): Generative Modeling via Denoising |
+| 10:30 | [Stefano Ermon](https://cs.stanford.edu/~ermon/) (Stanford): Generative Modeling via Denoising |
 | 11:00 | Contributed talk 3: Ajil Jalal, Sushrut Karmalkar, Alex Dimakis, Eric Price: Compressed Sensing with Approximate Priors via Conditional Resampling |
 | 11:15 | Chris Metzler: Approximate Message Passing (AMP) Algorithms for Computational Imaging |
 | 11:30 | Discussion with Rebecca Willett and Stefano Emron |
