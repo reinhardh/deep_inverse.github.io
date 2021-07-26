@@ -1,142 +1,53 @@
-# Workshop Summary
+---
+layout: default
+---
+
+# Workshop Description
 
 Learning-based methods, and in particular deep neural networks, have emerged as highly successful and universal tools for image and signal recovery and restoration. They achieve state-of-the-art results on tasks ranging from image denoising, image compression, and image reconstruction from few and noisy measurements. They are starting to be used in important imaging technologies, for example in GEs newest computational tomography scanners and in the newest generation of the iPhone.
 
-The field has a range of theoretical and practical questions that remain unanswered. In particular, learning and neural network-based approaches often lack the guarantees of traditional physics-based methods. Further, while superior on average, learning-based methods can make drastic reconstruction errors, such as hallucinating a tumor in an MRI reconstruction or turning a pixelated picture of Obama into a white male.
-
-This virtual workshop aims at bringing together theoreticians and practitioners in order to chart out recent advances and discuss new directions in deep neural network-based approaches for solving inverse problems in the imaging sciences and beyond.
-
-
-# Schedule
-
-The workshop schedule is aligned with 7:30 AM to 4 PM PT; please see this [converter](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Deep+Inverse+Workshop&iso=20201211T0730&p1=256&ah=8&am=30) for conversion to your specific time zone.
-
-The workshop is livestreamed at [the NeurIPS workshop webpage](https://neurips.cc/virtual/2020/protected/workshop_16113.html). To access this website you need to register for the conference at [https://neurips.cc/](https://neurips.cc/) and be logged in. 
-
-The videos of the talk can also be previewed as of now through [the NeurIPS workshop webpage](https://neurips.cc/virtual/2020/protected/workshop_16113.html). The livestream will play the videos, and each of the talks is followed by a live discussion. You can attend the live discussion either through the live stream or you can join the zoom session. Questions should be asked through rocketchat, and a co-organizer will moderate.
-
-During the designated discussion sessions you can talk to the respective speakers in gather.town. To get the gather.town link, visit the official NeurIPS schedule at [the NeurIPS workshop webpage](https://neurips.cc/virtual/2020/protected/workshop_16113.html).
-
-The poster session is also on gather.town. The gather.town link is accessible through the [the NeurIPS workshop webpage](https://neurips.cc/virtual/2020/protected/workshop_16113.html).
-
-
-| Time | Event |
-| --- | --- |
-| 7:30 | Newcomer presentation |
-| 7:55 | Opening Remarks |
-| 8:00 | [Victor Lempitsky](http://sites.skoltech.ru/compvision/members/vilem/) (Skoltech): Generative Models for Landscapes and Avatars |
-| 8:30 | [Thomas Pock](https://www.tugraz.at/institute/icg/research/team-pock/people/pock/) (TU Graz): Variational Networks |
-| 9:00 | Contributed talk 1: Vineet Edupuganti, Morteza Mardani, Shreyas Vasanawala, John M. Pauly: Risk Quantification in Deep MRI Reconstruction|
-| 9:15 | Contributed talk 2: Sungmin Cha, Taeeon Park, Byeongjoon Kim, Jongduk Baek, Taesup Moon: GAN2GAN: Generative Noise Learning for Blind Denoising with Single Noisy Images |
-| 9:30 | Break and Discussion with Victor Lempinsky, Thomas Pock, and Erich Kobler |
-| 10:00 | [Rebecca Willett](https://voices.uchicago.edu/willett/) (University of Chicago): Model Adaptation for Inverse Problems in Imaging |
-| 10:30 | [Stefano Ermon](https://cs.stanford.edu/~ermon/) (Stanford): Generative Modeling via Denoising |
-| 11:00 | Contributed talk 3: Ajil Jalal, Sushrut Karmalkar, Alex Dimakis, Eric Price: Compressed Sensing with Approximate Priors via Conditional Resampling |
-| 11:15 | Chris Metzler: Approximate Message Passing (AMP) Algorithms for Computational Imaging |
-| 11:30 | Discussion with Rebecca Willett and Stefano Emron |
-| 12:00 | Break  |
-| 1:00 |  Poster session |
-| 2:00 |  [Peyman Milanfar](https://sites.google.com/view/milanfarhome/) (Google) - Denoising as Building Block Theory and Applications |
-| 2:30 | [Rachel Ward](https://www.oden.utexas.edu/people/1143/) (UT Austin) |
-| 3:00 | [Larry Zitnick](http://larryzitnick.org/) (Facebook AI Reseach) - fastMRI |
-| 3:30 | Discussion with Peyman Milanfar, Rachel Ward, and Larry Zitnick |
-| 4:00 | End of official program |
-
-
-# Accepted papers
-
-All accepted papers are available [on openreview](https://openreview.net/group?id=NeurIPS.cc/2020/Workshop/Deep_Inverse#accept-poster):
-
-
-1. [Approximate Probabilistic Inference with Composed Flows](https://openreview.net/forum?id=qMIW5nuCjwL)\
-Jay Whang, Erik Lindgren, Alex Dimakis
-
-2. [Bayesian Inference in Physics-Driven Problems with Adversarial Priors](https://openreview.net/forum?id=P-0ae-EbP8)\
-Dhruv V Patel, Deep Ray, Harisankar Ramaswamy, Assad Oberai
-
-3. [Compressed Sensing with Approximate Priors via Conditional Resampling](https://openreview.net/forum?id=8ozSD4Oymw)\
-Ajil Jalal, Sushrut Karmalkar, Alex Dimakis, Eric Price
-
-4. [Compressed Sensing with Invertible Generative Models and Dependent Noise](https://openreview.net/forum?id=8R5nxDkbwE)\
-Jay Whang, Qi Lei, Alex Dimakis
-
-5. [Deep Learning for Plasma Tomography in Nuclear Fusion](https://openreview.net/forum?id=fuB3vZdTh0)\
-Diogo R. Ferreira, Pedro J. Carvalho
-
-6. [Deep Learning Initialized Phase Retrieval](https://openreview.net/forum?id=gv4I5IfJHP)\
-Raunak Manekar, Zhong Zhuang, Kshitij Tayal, Vipin Kumar, Ju Sun
-
-7. [Denoising Score-Matching for Uncertainty Quantification in Inverse Problems](https://openreview.net/forum?id=GpwoGZNeUC)\
-Zaccharie Ramzi, Benjamin Remy, Francois Lanusse, Jean-Luc Starck, Philippe Ciuciu
-
-8. [GAN2GAN: Generative Noise Learning for Blind Denoising with Single Noisy Images](https://openreview.net/forum?id=79TQKu3bXd)\
-Sungmin Cha, Taeeon Park, Byeongjoon Kim, Jongduk Baek, Taesup Moon
-
-9. [Generative Tomography Reconstruction](https://openreview.net/forum?id=5gs_SxdLozM)\
-Matteo Ronchetti, Davide Bacciu
-
-10. [Generator Surgery for Compressed Sensing](https://openreview.net/forum?id=s2EucjZ6d2s)\
-Jung Yeon Park, Niklas Smedemark-Margulies, Max Daniels, Rose Yu, Jan-Willem van de Meent, Paul Hand
-
-11. [Intermediate Layer Optimization for Inverse Problems using Deep Generative Models](https://openreview.net/forum?id=232ut-SyVR)\
-Joseph Dean, Giannis Daras, Alex Dimakis
-
-12. [Learning Spectral Regularizations for Linear Inverse Problems](https://openreview.net/forum?id=lUgF584nOSY)\
-Hartmut Bauermeister, Martin Burger, Michael Moeller
-
-13. [Learning to Sample MRI via Variational Information Maximization](https://openreview.net/forum?id=1AOReNkDmh_)\
-Cagan Alkan, Morteza Mardani, Shreyas Vasanawala, John M. Pauly
-
-14. [Likelihood-Free Inference with Deep Gaussian Processes](https://openreview.net/forum?id=SiovfW3wF1e)\
-Alexander Aushev, Henri Pesonen, Markus Heinonen, Jukka Corander, Samuel Kaski
-
-15. [Quantifying Sources of Uncertainty in Deep Learning-Based Image Reconstruction](https://openreview.net/forum?id=iUGcSYdJogv)\
-Riccardo Barbano, Zeljko Kereta, Chen Zhang, Andreas Hauptmann, Simon Arridge, Bangti Jin
-
-16. [Risk Quantification in Deep MRI Reconstruction](https://openreview.net/forum?id=ccBn_ZIuRHT)\
-Vineet Edupuganti, Morteza Mardani, Shreyas Vasanawala, John M. Pauly
-
-17. [Solving Linear Inverse Problems Using the Prior Implicit in a Denoiser](https://openreview.net/forum?id=RLN7K4U3UST)\
-Zahra Kadkhodaie, Eero Peter Simoncelli
-
-18. [Towards Neurally Augmented ALISTA](https://openreview.net/pdf?id=ysONncbu1z)\
-Freya Behrens, Jonathan Sauder, Peter Jung
-
-19. [Uncertainty-Driven Adaptive Sampling via GANs](https://openreview.net/forum?id=lWLYCQmtvW)\
-Thomas Sanchez, Igor Krawczuk, Zhaodong Sun, Volkan Cevher
-
-20. [Unlocking Inverse Problems Using Deep Learning: Breaking Symmetries in Phase Retrieval](https://openreview.net/forum?id=oyhGIytV1S)\
-Kshitij Tayal, Chieh-Hsin Lai, Raunak Manekar, Zhong Zhuang, Vipin Kumar, Ju Sun
-
-
-
+The field has a range of theoretical and practical questions that remain unanswered, including questions about guarantees, robustness, architectural design, the role of learning, domain specific applications, and more. 
+This virtual workshop aims at bringing together theoreticians and practitioners in order to chart out recent advances and discuss new directions in deep learning-based approaches for solving inverse problems in the imaging sciences and beyond. 
 
 
 # Call for Papers and Submission Instructions
 
-We invite researchers to submit anonymous papers of up to 4 pages (excluding references and appendices) which will be considered for contributed workshop papers. No specific formatting is required. Authors are encouraged to use the [workshop edition of the NeurIPS style file](https://deep-inverse.org/downloads/NeurIPSDeepInverseStyle.zip), but they may use any other style as long as it has standard font size (11pt) and margins (1in). The paper can have an appendix of unlimited lenght.
+We invite researchers to submit anonymous papers of up to 4 pages (excluding references and appendices) which will be considered for contributed workshop papers. No specific formatting is required. Authors are encouraged to use the [NeurIPS style file](https://neurips.cc/Conferences/2021/PaperInformation/StyleFiles), but they may use any other style as long as it has standard font size (11pt) and margins (1in).
 
-Submission at [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2020/Workshop/Deep_Inverse) will be open from Sep. 1 until the submission deadline on October 9, 2020.
+Submission at [OpenReview](https://openreview.net/) will be open soon until the submission deadline on September 17, 2021.
 
-We welcome all submission in the intersection of inverse problems and deep learning including contributions related to robustness and biases, neural network architectures, regularization, optimization methods, datasets, theoretical foundations (including rigorous recovery guarantees, provable convergence, and bounds on representation errors),  untrained methods, generative models, end-to-end methods, and applications in imaging, time series, and beyond. We especially encourage submissions related to the following questions:
+We welcome all submissions in the intersection of inverse problems and deep learning, including but not limited to submissions on the following topics:
 
-- Deep learning based approaches can make drastic reconstruction errors and may introduce biases. How common are such issues, can such reconstruction difficulties be alleviated, and if yes, how? 
+- Deep learning based approaches can make drastic reconstruction errors and may introduce biases. How common are such reconstruction problems, can they be alleviated, and if yes, how?
 
 - Deep learning based approaches often lack the guarantees of the traditional physics based methods. What theoretical results are necessary and possible?
 
-- Untrained neural networks such as the deep image prior have shown that neural networks alone, without any learning, can give excellent reconstruction performance. How important is training on the target distribution for imaging performance and is it possible to achieve state-of-the art performance without training?
+- Coordinate-based signal representations (e.g., NeRF and SIREN) and untrained convolutional neural networks have shown that neural networks alone, without any learning, can give excellent reconstruction performance. Is it possible to achieve state-of-the art performance without or little training data?
 
 # Important Dates
-- Submit the final version and poster by **December 1, 2020** at [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2020/Workshop/Deep_Inverse)
-- Submission Deadline: Extended to **October 12, 2020** (this is the final deadline).
-- Notification: October 23, 2020.
-- Workshop: Friday December 11
+
+
+- Submission Deadline: September 17, 2021.
+- Notification of acceptance: October 15, 2021.
+- Mandatory SlidesLive Upload: November 9, 2021
+- Workshop: Friday December 10th or Saturday December 11th, 2021 (those dates are not final).
+
+
+# Confirmed Speakers
+- [Jonas Adler](https://jonasadler.com/) (DeepMind)
+- [Muyinatu Bell](https://engineering.jhu.edu/ece/faculty/muyinatu-bell/) (John Hopkins University)
+- [Alex Dimakis](https://users.ece.utexas.edu/~dimakis/) (UT Austin)
+- [Kerstin Hammernik](https://aim-lab.io/author/kerstin-hammernik/) (Technical University of Munich / Imperial College London)
+- [Stan Osher](https://www.math.ucla.edu/~sjo/) (UCLA)
+- [Carola Schönlieb](http://www.damtp.cam.ac.uk/person/cbs31) (Cambridge University)
+- [Gordon Wetzstein](https://stanford.edu/~gordonwz/) (Stanford University)
 
 # Organizers
 - [Reinhard Heckel](http://www.reinhardheckel.com/) (TUM)
 - [Paul Hand](http://khoury.northeastern.edu/home/hand/) (Northeastern)
-- [Soheil Feizi](https://www.cs.umd.edu/~sfeizi/) (UMD)
-- [Lenka Zdeborova](http://artax.karlin.mff.cuni.cz/~zdebl9am/) (CEA/SACLAY)
-- [Richard Baraniuk](http://richb.rice.edu/) (Rice University)
+- [Mahdi Soltanolkotabi](https://viterbi-web.usc.edu/~soltanol/) (USC)
+- [Christopher Metzler](https://www.cs.umd.edu/people/metzler) (University of Maryland)
+- [Rebecca Willett](https://voices.uchicago.edu/willett/) (University of Chicago)
 
 Please email [deepinverse@gmail.com](mailto:deepinverse@gmail.com) with any questions.
+
