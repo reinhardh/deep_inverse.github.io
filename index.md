@@ -14,7 +14,7 @@ This virtual workshop aims at bringing together theoreticians and practitioners 
 
 We invite researchers to submit anonymous papers of up to 4 pages (excluding references and appendices) which will be considered for contributed workshop papers. No specific formatting is required. Authors are encouraged to use the [NeurIPS style file](https://neurips.cc/Conferences/2021/PaperInformation/StyleFiles), but they may use any other style as long as it has standard font size (11pt) and margins (1in).
 
-Submission at [OpenReview](https://openreview.net/) will be open soon until the submission deadline on September 17, 2021.
+Submission at [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2021/Workshop/Deep_Inverse) is open now until the submission deadline on September 17, 2021.
 
 We welcome all submissions in the intersection of inverse problems and deep learning, including but not limited to submissions on the following topics:
 
@@ -29,25 +29,29 @@ We welcome all submissions in the intersection of inverse problems and deep lear
 
 - Submission Deadline: September 17, 2021.
 - Notification of acceptance: October 15, 2021.
-- Mandatory SlidesLive Upload: November 9, 2021
+- SlidesLive upload for speaker videos: November 1, 2021
 - Workshop: Friday December 10th or Saturday December 11th, 2021 (those dates are not final).
 
 
-# Confirmed Speakers
-- [Jonas Adler](https://jonasadler.com/) (DeepMind)
-- [Muyinatu Bell](https://engineering.jhu.edu/ece/faculty/muyinatu-bell/) (John Hopkins University)
-- [Alex Dimakis](https://users.ece.utexas.edu/~dimakis/) (UT Austin)
-- [Kerstin Hammernik](https://aim-lab.io/author/kerstin-hammernik/) (Technical University of Munich / Imperial College London)
-- [Stan Osher](https://www.math.ucla.edu/~sjo/) (UCLA)
-- [Carola Schönlieb](http://www.damtp.cam.ac.uk/person/cbs31) (Cambridge University)
-- [Gordon Wetzstein](https://stanford.edu/~gordonwz/) (Stanford University)
+# Speakers
+
+|<img src="/assets/images/Jonas.jpeg" alt="Jonas Adler" width="225"/>|<img src="/assets/images/Muyinatu.jpeg" alt="Muyinatu Bell" width="225"/>|<img src="/assets/images/Alex.jpeg" alt="Alex Dimakis" width="225"/>|
+|[Jonas Adler](https://jonasadler.com/)<br />DeepMind|[Muyinatu Bell](https://engineering.jhu.edu/ece/faculty/muyinatu-bell/)<br />John Hopkins University|[Alex Dimakis](https://users.ece.utexas.edu/~dimakis/)<br />UT Austin|
+|<img src="/assets/images/Kerstin.jpg" alt="Kerstin Hammernik" width="225"/>|<img src="/assets/images/Stan.png" alt="Stan Osher" width="225"/>|<img src="/assets/images/Carola.jpg" alt="Carola Schönlieb" width="225"/>|
+|[Kerstin Hammernik](https://aim-lab.io/author/kerstin-hammernik/)<br />Technical University of Munich|[Stan Osher](https://www.math.ucla.edu/~sjo/)<br />UCLA|[Carola Schönlieb](http://www.damtp.cam.ac.uk/person/cbs31)<br />Cambridge University|
+|<img src="/assets/images/Gordon.jpeg" alt="Gordon Wetzstein" width="225"/>|
+|[Gordon Wetzstein](https://stanford.edu/~gordonwz/)<br />Stanford University|
+
 
 # Organizers
-- [Reinhard Heckel](http://www.reinhardheckel.com/) (TUM)
-- [Paul Hand](http://khoury.northeastern.edu/home/hand/) (Northeastern)
-- [Mahdi Soltanolkotabi](https://viterbi-web.usc.edu/~soltanol/) (USC)
-- [Christopher Metzler](https://www.cs.umd.edu/people/metzler) (University of Maryland)
-- [Rebecca Willett](https://voices.uchicago.edu/willett/) (University of Chicago)
+
+|<img src="/assets/images/Paul.jpeg" alt="Paul Hand" width="225"/>|<img src="/assets/images/Reinhard.jpg" alt="Reinhard Heckel" width="225"/>|<img src="/assets/images/Chris.jpg" alt="Christopher Metzler" width="225"/>|
+|[Paul Hand](http://khoury.northeastern.edu/home/hand/)<br />Northeastern University|[Reinhard Heckel](http://www.reinhardheckel.com/)<br />Technical University of Munich|[Christopher Metzler](https://www.cs.umd.edu/people/metzler)<br />University of Maryland|
+|<img src="/assets/images/Mahdi.jpeg" alt="Mahdi Soltanolkotabi" width="225"/>|<img src="/assets/images/Rebecca.jpeg" alt="Rebecca Willett" width="225"/>|
+|[Mahdi Soltanolkotabi](https://viterbi-web.usc.edu/~soltanol/)<br />University of Southern California|[Rebecca Willett](https://voices.uchicago.edu/willett/)<br />University of Chicago|
+
+
+
 
 Please email [deepinverse@gmail.com](mailto:deepinverse@gmail.com) with any questions.
 
