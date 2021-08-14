@@ -1,10 +1,12 @@
 ---
 layout: default
+title: Deep Learning and Inverse Problems
+description: NeurIPS 2021 workshop, Monday December 13, Online
 ---
 
 # Workshop Description
 
-Learning-based methods, and in particular deep neural networks, have emerged as highly successful and universal tools for image and signal recovery and restoration. They achieve state-of-the-art results on tasks ranging from image denoising, image compression, and image reconstruction from few and noisy measurements. They are starting to be used in important imaging technologies, for example in GEs newest computational tomography scanners and in the newest generation of the iPhone.
+Learning-based methods, and in particular deep neural networks, have emerged as highly successful and universal tools for image and signal recovery and restoration. They achieve state-of-the-art results on tasks ranging from image denoising, image compression, and image reconstruction from few and noisy measurements. They are starting to be used in important imaging technologies, for example in GEs newest computational tomography scanners and in the newest generation of the iPhone. They are also used in inverse problems beyond imaging, including for solving inverse problems arrising in communications, signal processing, and even on non-Euclidean data suchs as graphs.
 
 The field has a range of theoretical and practical questions that remain unanswered, including questions about guarantees, robustness, architectural design, the role of learning, domain specific applications, and more. 
 This virtual workshop aims at bringing together theoreticians and practitioners in order to chart out recent advances and discuss new directions in deep learning-based approaches for solving inverse problems in the imaging sciences and beyond. 
@@ -30,7 +32,7 @@ We welcome all submissions in the intersection of inverse problems and deep lear
 - Submission Deadline: September 17, 2021.
 - Notification of acceptance: October 15, 2021.
 - SlidesLive upload for speaker videos: November 1, 2021
-- Workshop: Friday December 10th or Saturday December 11th, 2021 (those dates are not final).
+- Workshop: Monday December 13, 2021.
 
 
 # Speakers

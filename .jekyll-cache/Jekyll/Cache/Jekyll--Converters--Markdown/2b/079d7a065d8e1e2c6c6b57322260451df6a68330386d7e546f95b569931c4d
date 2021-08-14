@@ -1,6 +1,6 @@
-I"ÿ<h1 id="workshop-description">Workshop Description</h1>
+I"„<h1 id="workshop-description">Workshop Description</h1>
 
-<p>Learning-based methods, and in particular deep neural networks, have emerged as highly successful and universal tools for image and signal recovery and restoration. They achieve state-of-the-art results on tasks ranging from image denoising, image compression, and image reconstruction from few and noisy measurements. They are starting to be used in important imaging technologies, for example in GEs newest computational tomography scanners and in the newest generation of the iPhone.</p>
+<p>Learning-based methods, and in particular deep neural networks, have emerged as highly successful and universal tools for image and signal recovery and restoration. They achieve state-of-the-art results on tasks ranging from image denoising, image compression, and image reconstruction from few and noisy measurements. They are starting to be used in important imaging technologies, for example in GEs newest computational tomography scanners and in the newest generation of the iPhone. They are also used in inverse problems beyond imaging, including for solving inverse problems arrising in communications, signal processing, and even on non-Euclidean data suchs as graphs.</p>
 
 <p>The field has a range of theoretical and practical questions that remain unanswered, including questions about guarantees, robustness, architectural design, the role of learning, domain specific applications, and more. 
 This virtual workshop aims at bringing together theoreticians and practitioners in order to chart out recent advances and discuss new directions in deep learning-based approaches for solving inverse problems in the imaging sciences and beyond.</p>
@@ -31,7 +31,7 @@ This virtual workshop aims at bringing together theoreticians and practitioners 
   <li>Submission Deadline: September 17, 2021.</li>
   <li>Notification of acceptance: October 15, 2021.</li>
   <li>SlidesLive upload for speaker videos: November 1, 2021</li>
-  <li>Workshop: Friday December 10th or Saturday December 11th, 2021 (those dates are not final).</li>
+  <li>Workshop: Monday December 13, 2021.</li>
 </ul>
 
 <h1 id="speakers">Speakers</h1>

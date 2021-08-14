@@ -6,7 +6,24 @@
 
 ![Thumbnail of Cayman](thumbnail.png)
 
+
+## Notes
+
+To deploy, don't run the deploy script do:
+
+change files, e.g., in _pages
+         
+bundle exec jekyll serve
+not necessary: (bundle exec jekyll build) 
+        
+mv _site/* . (copy via finder)
+             
+git add --all
+git commit -m "update"
+git push
+
 ## Usage
+
 
 To use the Cayman theme:
 
