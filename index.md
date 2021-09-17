@@ -16,7 +16,7 @@ This virtual workshop aims at bringing together theoreticians and practitioners 
 
 We invite researchers to submit anonymous papers of up to 4 pages (excluding references and appendices) which will be considered for contributed workshop papers. No specific formatting is required. Authors are encouraged to use the [NeurIPS style file](https://neurips.cc/Conferences/2021/PaperInformation/StyleFiles), but they may use any other style as long as it has standard font size (11pt) and margins (1in).
 
-Submission at [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2021/Workshop/Deep_Inverse) is open now until the submission deadline on September 17, 2021.
+Submission at [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2021/Workshop/Deep_Inverse) is open now until the submission deadline on September 26, 2021.
 
 We welcome all submissions in the intersection of inverse problems and deep learning, including but not limited to submissions on the following topics:
 
