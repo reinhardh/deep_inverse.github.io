@@ -29,7 +29,7 @@ We welcome all submissions in the intersection of inverse problems and deep lear
 # Important Dates
 
 
-- Submission Deadline: September 17, 2021.
+- Submission Deadline: ~~September 17, 2021~~ **extended until September 26, 2021, AoE (this extension is final)**.
 - Notification of acceptance: October 15, 2021.
 - SlidesLive upload for speaker videos: November 1, 2021
 - Workshop: Monday December 13, 2021.

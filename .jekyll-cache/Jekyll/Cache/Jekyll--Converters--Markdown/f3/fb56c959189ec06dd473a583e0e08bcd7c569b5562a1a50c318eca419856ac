@@ -1,4 +1,4 @@
-I"„<h1 id="workshop-description">Workshop Description</h1>
+I"á<h1 id="workshop-description">Workshop Description</h1>
 
 <p>Learning-based methods, and in particular deep neural networks, have emerged as highly successful and universal tools for image and signal recovery and restoration. They achieve state-of-the-art results on tasks ranging from image denoising, image compression, and image reconstruction from few and noisy measurements. They are starting to be used in important imaging technologies, for example in GEs newest computational tomography scanners and in the newest generation of the iPhone. They are also used in inverse problems beyond imaging, including for solving inverse problems arrising in communications, signal processing, and even on non-Euclidean data suchs as graphs.</p>
 
@@ -28,7 +28,7 @@ This virtual workshop aims at bringing together theoreticians and practitioners 
 <h1 id="important-dates">Important Dates</h1>
 
 <ul>
-  <li>Submission Deadline: September 17, 2021.</li>
+  <li>Submission Deadline: <del>September 17, 2021</del> <strong>extended until September 26, 2021, AoE (this extension is final)</strong>.</li>
   <li>Notification of acceptance: October 15, 2021.</li>
   <li>SlidesLive upload for speaker videos: November 1, 2021</li>
   <li>Workshop: Monday December 13, 2021.</li>
