@@ -1,4 +1,4 @@
-I"á<h1 id="workshop-description">Workshop Description</h1>
+I"ú%<h1 id="workshop-description">Workshop Description</h1>
 
 <p>Learning-based methods, and in particular deep neural networks, have emerged as highly successful and universal tools for image and signal recovery and restoration. They achieve state-of-the-art results on tasks ranging from image denoising, image compression, and image reconstruction from few and noisy measurements. They are starting to be used in important imaging technologies, for example in GEs newest computational tomography scanners and in the newest generation of the iPhone. They are also used in inverse problems beyond imaging, including for solving inverse problems arrising in communications, signal processing, and even on non-Euclidean data suchs as graphs.</p>
 
@@ -33,6 +33,97 @@ This virtual workshop aims at bringing together theoreticians and practitioners 
   <li>SlidesLive upload for speaker videos: November 1, 2021</li>
   <li>Workshop: Monday December 13, 2021.</li>
 </ul>
+
+<h1 id="schedule">Schedule</h1>
+
+<p>The workshop schedule is aligned with 7:55 AM to 4 PM PT; please see this <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Deep+Inverse+NeurIPS+2021+workshop&amp;iso=20211213T0755&amp;p1=256&amp;ah=8">converter</a> for conversion to your specific time zone.</p>
+
+<p>The workshop is livestreamed at <a href="https://neurips.cc/">the NeurIPS webpage</a>. To access this website you need to register for the conference at <a href="https://neurips.cc/">https://neurips.cc/</a> and be logged in.</p>
+
+<p>The livestream will play the talks, and each of the talks is followed by a live discussion. You can attend the live discussion either through the live stream or you can join the zoom session. Questions should be asked through rocketchat, and a co-organizer will moderate.</p>
+
+<p>During the designated discussion sessions you can talk to the respective speakers in gather.town. To get the gather.town link, visit the official NeurIPS schedule at <a href="https://neurips.cc">the NeurIPS webpage</a>.</p>
+
+<p>The poster session is also on gather.town. The gather.town link is accessible through the <a href="https://neurips.cc/">the NeurIPS webpage</a>.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Time (PST)</th>
+      <th>Event</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>7:55</td>
+      <td>Opening Remarks</td>
+    </tr>
+    <tr>
+      <td>8:00</td>
+      <td><a href="https://users.ece.utexas.edu/~dimakis/">Alex Dimakis Talk</a> (UT Austin)</td>
+    </tr>
+    <tr>
+      <td>8:30</td>
+      <td><a href="https://engineering.jhu.edu/ece/faculty/muyinatu-bell/">Muyinatu Bell Talk</a> (John Hopkins University)</td>
+    </tr>
+    <tr>
+      <td>9:00</td>
+      <td>Contributed talk 1: Batu Ozturkler, Arda Sahiner, Tolga Ergen, Arjun D Desai, John M. Pauly, Shreyas Vasanawala, Morteza Mardani, Mert Pilanci: Greedy Learning for Large-Scale Neural MRI Reconstruction</td>
+    </tr>
+    <tr>
+      <td>9:15</td>
+      <td>Contributed talk 2: Alireza Naderi, Yaniv Plan: Beyond Independent Measurements: General Compressed Sensing with GNN Application</td>
+    </tr>
+    <tr>
+      <td>9:30</td>
+      <td>Break and Discussion with Alex Dimakis and Muyinatu Bell Talk</td>
+    </tr>
+    <tr>
+      <td>10:00</td>
+      <td>Contributed talk 3: Eric Markley, Fanglin Linda Liu, Michael Kellman, Nick Antipa, Laura Waller: Physics-Based Learned Diffuser for Single-shot 3D Imaging</td>
+    </tr>
+    <tr>
+      <td>10:15</td>
+      <td><a href="https://aim-lab.io/author/kerstin-hammernik/">Kerstin Hammernik Talk</a> (TUM)</td>
+    </tr>
+    <tr>
+      <td>10:45</td>
+      <td><a href="http://www.damtp.cam.ac.uk/person/cbs31">Carola SchÃ¶nlieb Talk</a> (University of Cambridge)</td>
+    </tr>
+    <tr>
+      <td>11:30</td>
+      <td>Break and discussion with Kerstin Hammernik and Carola SchÃ¶nlieb</td>
+    </tr>
+    <tr>
+      <td>12:00</td>
+      <td>Break</td>
+    </tr>
+    <tr>
+      <td>1:00</td>
+      <td>Poster session</td>
+    </tr>
+    <tr>
+      <td>2:00</td>
+      <td><a href="https://stanford.edu/~gordonwz/">Gordon Wetzstein Talk</a> (Stanford)</td>
+    </tr>
+    <tr>
+      <td>2:30</td>
+      <td><a href="https://www.oden.utexas.edu/people/1143/">Stan Osher Talk</a> (UCLA)</td>
+    </tr>
+    <tr>
+      <td>3:00</td>
+      <td><a href="http://larryzitnick.org/">Jonas Adler Talk</a> (DeepMind)</td>
+    </tr>
+    <tr>
+      <td>3:30</td>
+      <td>Discussion with Gordon Wetzstein, Stan Osher, and Jonas Adler</td>
+    </tr>
+    <tr>
+      <td>4:00</td>
+      <td>End of official program</td>
+    </tr>
+  </tbody>
+</table>
 
 <h1 id="speakers">Speakers</h1>
 
