@@ -44,9 +44,9 @@ The workshop is livestreamed at [the NeurIPS webpage](https://neurips.cc/). To a
 
 The livestream will play the talks, and each of the talks is followed by a live discussion. You can attend the live discussion either through the live stream or you can join the zoom session. Questions should be asked through rocketchat, and a co-organizer will moderate.
 
-During the designated discussion sessions you can talk to the respective speakers in gather.town. To get the gather.town link, visit the official NeurIPS schedule at [the NeurIPS webpage](https://neurips.cc).
+During the designated discussion sessions you can talk to the respective speakers in [gather.town](https://gather.town/app/ipmlHE4gDU6qqM2b/NeurIPS2021-DL-Inverse).
 
-The poster session is also on gather.town. The gather.town link is accessible through the [the NeurIPS webpage](https://neurips.cc/).
+The poster session is also on [gather.town](https://gather.town/app/ipmlHE4gDU6qqM2b/NeurIPS2021-DL-Inverse). The gather.town link is accessible only when logged in at neurips.cc and registered for the conference.
 
 
 | Time (PST) | Event |
@@ -56,17 +56,17 @@ The poster session is also on gather.town. The gather.town link is accessible th
 | 8:30 | [Muyinatu Bell Talk](https://engineering.jhu.edu/ece/faculty/muyinatu-bell/) (John Hopkins University) |
 | 9:00 | Contributed talk 1: Batu Ozturkler, Arda Sahiner, Tolga Ergen, Arjun D Desai, John M. Pauly, Shreyas Vasanawala, Morteza Mardani, Mert Pilanci: Greedy Learning for Large-Scale Neural MRI Reconstruction |
 | 9:15 | Contributed talk 2: Alireza Naderi, Yaniv Plan: Beyond Independent Measurements: General Compressed Sensing with GNN Application  |
-| 9:30 | Break and Discussion with Alex Dimakis and Muyinatu Bell Talk|
+| 9:30 | Break and Discussion with Alex Dimakis and Muyinatu Bell Talk at [gather.town](https://gather.town/app/ipmlHE4gDU6qqM2b/NeurIPS2021-DL-Inverse)|
 | 10:00 | Contributed talk 3: Eric Markley, Fanglin Linda Liu, Michael Kellman, Nick Antipa, Laura Waller: Physics-Based Learned Diffuser for Single-shot 3D Imaging |
 | 10:15 | [Kerstin Hammernik Talk](https://aim-lab.io/author/kerstin-hammernik/) (TUM) |
 | 10:45 | [Carola Schönlieb Talk](http://www.damtp.cam.ac.uk/person/cbs31) (University of Cambridge) |
-| 11:30 | Break and discussion with Kerstin Hammernik and Carola Schönlieb|
-| 12:00 | Break |
-| 1:00 |  Poster session |
+| 11:15 | Break and discussion with Kerstin Hammernik and Carola Schönlieb at [gather.town](https://gather.town/app/ipmlHE4gDU6qqM2b/NeurIPS2021-DL-Inverse)|
+| 11:45 | Break |
+| 12:45 |  Poster session at [gather.town](https://gather.town/app/ipmlHE4gDU6qqM2b/NeurIPS2021-DL-Inverse)|
 | 2:00 |  [Gordon Wetzstein Talk](https://stanford.edu/~gordonwz/) (Stanford) |
 | 2:30 | [Stan Osher Talk](https://www.oden.utexas.edu/people/1143/) (UCLA) |
 | 3:00 | [Jonas Adler Talk](http://larryzitnick.org/) (DeepMind) |
-| 3:30 | Discussion with Gordon Wetzstein, Stan Osher, and Jonas Adler |
+| 3:30 | Discussion with Gordon Wetzstein, Stan Osher, and Jonas Adler at [gather.town](https://gather.town/app/ipmlHE4gDU6qqM2b/NeurIPS2021-DL-Inverse)|
 | 4:00 | End of official program |
 
 
