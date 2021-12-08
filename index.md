@@ -81,6 +81,96 @@ The poster session is also on [gather.town](https://gather.town/app/ipmlHE4gDU6q
 |[Gordon Wetzstein](https://stanford.edu/~gordonwz/)<br />Stanford University|
 
 
+
+# Accepted papers
+
+All accepted papers are available [on openreview](https://openreview.net/group?id=NeurIPS.cc/2021/Workshop/Deep_Inverse#accept--oral-):
+
+1. [A Closer Look at Reference Learning for Fourier Phase Retrieval](https://openreview.net/forum?id=5KYdC4a3Rn3)\
+Tobias Uelwer, Nick Rucks, Stefan Harmeling
+
+2. [Bayesian Inference in Physics-Based Nonlinear Flame Models](https://openreview.net/forum?id=WppGnva0Qm0)\
+Maximilian L. Croci, Ushnish Sengupta, Matthew P Juniper
+
+3. [Beyond Independent Measurements: General Compressed Sensing with GNN Application](https://openreview.net/forum?id=rQhQIbvP3SA)\
+Alireza Naderi, Yaniv Plan
+
+4. [DARTS for Inverse Problems: a Study on Stability](https://openreview.net/forum?id=ty5XCitJfLA)\
+Jonas Geiping, Jovita Lukasik, Margret Keuper, Michael Moeller
+
+5. [Deep subspace learning for efficient reconstruction of spatiotemporal imaging data](https://openreview.net/forum?id=pjeFySy4240)\
+Christopher Michael Sandino, Frank Ong, Siddharth Srinivasan Iyer, Adam Bush, Shreyas Vasanawala
+
+6. [Efficient posterior inference & generalization in physics-based Bayesian inference with conditional GANs](https://openreview.net/forum?id=VC7UtQ2j0XW)\
+Deep Ray, Dhruv V Patel, Harisankar Ramaswamy, Assad Oberai
+
+7. [Functional Response Conditional Variational Auto-Encoders for Inverse Design of Metamaterials](https://openreview.net/forum?id=ymp0Y7b8Kdw)\
+Che Wang, Yuhao Fu, Ke Deng, Chunlin Ji
+
+8. [Greedy Learning for Large-Scale Neural MRI Reconstruction](https://openreview.net/forum?id=tKeEIFvmENy)\
+Batu Ozturkler, Arda Sahiner, Tolga Ergen, Arjun D Desai, John M. Pauly, Shreyas Vasanawala, Morteza Mardani, Mert Pilanci
+
+9. [Invertible Learned Primal-Dual](https://openreview.net/forum?id=DhgpsRWHl4Z)\
+Jevgenija Rudzusika, Buda Bajic, Ozan Öktem, Carola-Bibiane Schönlieb, Christian Etmann
+
+10. [Learning convex regularizers satisfying the variational source condition for inverse problems](https://openreview.net/forum?id=32oLu7d1vlT)\
+Subhadip Mukherjee, Carola-Bibiane Schönlieb, Martin Burger
+
+11. [Learning Lipschitz-Controlled Activation Functions in Neural Networks for Plug-and-Play Image Reconstruction Methods](https://openreview.net/forum?id=efCsbTzQTbH)\
+Pakshal Bohra, Dimitris Perdios, Alexis Goujon, Sébastien Emery, Michael Unser
+
+12. [Learning Structured Sparse Matrices for Signal Recovery via Unrolled Optimization](https://openreview.net/forum?id=IxKSqOq1TKQ)\
+Jonathan Sauder, Martin Genzel, Peter Jung
+
+13. [Likelihood-Free Inference in State-Space Models with Unknown Dynamics](https://openreview.net/forum?id=W15fEa4e6uh)\
+Alexander Aushev, Thong Anh Tran, Henri Pesonen, Andrew Howes, Samuel Kaski
+
+14. [Matching Plug-and-Play Algorithms to the Denoiser](https://openreview.net/forum?id=oRF0-zGYAei)\
+Saurav K Shastri, Rizwan Ahmad, Christopher Metzler, Philip Schniter
+
+15. [Multi-Task Accelerated MR Reconstruction Schemes for Jointly Training Multiple Contrasts](https://openreview.net/forum?id=S6sXIL3l_r7)\
+Victoria Liu, Kanghyun Ryu, Cagan Alkan, John M. Pauly, Shreyas Vasanawala
+
+16. [Near-Exact Recovery for Sparse-View CT via Data-Driven Methods](https://openreview.net/forum?id=IhI3ZhtZGUo)\
+Martin Genzel, Ingo Gühring, Jan Macdonald, Maximilian März
+
+17. [NeRP: Implicit Neural Representation Learning with Prior Embedding for Sparsely Sampled Image Reconstruction](https://openreview.net/forum?id=fRB_ak9moDt)\
+Liyue Shen, John M. Pauly, Lei Xing
+
+18. [PANOM: Automatic Hyper-parameter Tuning for Inverse Problems](https://openreview.net/forum?id=aOnjg9Z2vIF)\
+Tianci Liu, Quan Zhang, Qi Lei
+
+19. [Photoacoustic imaging with conditional priors from normalizing flows](https://openreview.net/forum?id=woi1OTvROO1)\
+Rafael Orozco, Ali Siahkoohi, Gabrio Rizzuti, Tristan van Leeuwen, Felix Johan Herrmann
+
+20. [Photon-Limited Deblurring using Algorithm Unrolling](https://openreview.net/forum?id=ZYO0JPZCZNe)\
+Yash Sanghvi, Abhiram Gnanasambandam, Stanley Chan
+
+21. [Physics-Based Learned Diffuser for Single-shot 3D Imaging](https://openreview.net/forum?id=JJwoJOW4PVZ)\
+Eric Markley, Fanglin Linda Liu, Michael Kellman, Nick Antipa, Laura Waller
+
+22. [PLUGIn-CS: A simple algorithm for compressive sensing with generative prior](https://openreview.net/forum?id=2v7XbFVRH3G)\
+Babhru Joshi, Xiaowei Li, Yaniv Plan, Ozgur Yilmaz
+
+23. [ReFIn: A Refinement Approach for Video Frame Interpolation](https://openreview.net/forum?id=4_cgHrh0BpN)\
+Saikat Dutta, Anurag Mittal
+
+24. [Robust Compressed Sensing MR Imaging with Deep Generative Priors](https://openreview.net/forum?id=igjxsgnvZPd)\
+Ajil Jalal, Marius Arvinte, Giannis Daras, Eric Price, Alex Dimakis, Jonathan Tamir
+
+25. [Solving Inverse Problems in Medical Imaging with Score-Based Generative Models](https://openreview.net/forum?id=4rFAhgrA0lA)\
+Yang Song, Liyue Shen, Lei Xing, Stefano Ermon
+
+26. [Sparse deep computer-generated holography for optical microscopy](https://openreview.net/forum?id=0Mo684AhZAm)\
+Alex Liu, Yi Xue, Laura Waller
+
+27. [SSFD: Self-Supervised Feature Distance as an MR Image Reconstruction Quality Metric](https://openreview.net/forum?id=dgMvTzf6M_3)\
+Philip M Adamson, Beliz Gunel, Jeffrey Dominic, Arjun D Desai, Daniel Spielman, Shreyas Vasanawala, John M. Pauly, Akshay Chaudhari
+
+28. [Zero-Shot Physics-Guided Deep Learning for Subject-Specific MRI Reconstruction](https://openreview.net/forum?id=Nzv2jICkWV7)\
+Burhaneddin Yaman, Seyed Amir Hossein Hosseini, Mehmet Akcakaya
+
+
 # Organizers
 
 |<img src="/assets/images/Paul.jpeg" alt="Paul Hand" width="225"/>|<img src="/assets/images/Reinhard.jpg" alt="Reinhard Heckel" width="225"/>|<img src="/assets/images/Chris.jpg" alt="Christopher Metzler" width="225"/>|
