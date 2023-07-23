@@ -42,11 +42,11 @@ Inverse problems are ubiquitous in science, medicine, and engineering, and resea
 # Organizers
 
 |<img src="/assets/images/Chris.jpg" alt="Christopher Metzler" width="225"/>|<img src="/assets/images/Shirin.jpg" alt="Shirin Jalali" width="225"/>|<img src="/assets/images/Ajil.png" alt="Ajil Jalal" width="225"/>|
-|[Christopher Metzler](https://www.cs.umd.edu/~metzler/index.html)<br /> University of Maryland|[Shirin Jalali](https://sites.google.com/site/shirinjalali/home)<br /> Rutgers University|[Ajil Jalal](https://ajiljalal.github.io/)<br /> UC Berkeley|
+|[Christopher Metzler](https://www.cs.umd.edu/~metzler/index.html)<br />University of Maryland|[Shirin Jalali](https://sites.google.com/site/shirinjalali/home)<br />Rutgers University|[Ajil Jalal](https://ajiljalal.github.io/)<br />UC Berkeley|
 |<img src="/assets/images/Paul.jpeg" alt="Paul Hand" width="225"/>|<img src="/assets/images/Reinhard.jpg" alt="Reinhard Heckel" width="225"/>|<img src="/assets/images/Jon.jpg" alt="Jon Tamir" width="225"/>|
-|[Paul Hand](http://khoury.northeastern.edu/home/hand/)<br />Northeastern University|[Reinhard Heckel](http://www.reinhardheckel.com/)<br />Technical University of Munich|[Jon Tamir](https://users.ece.utexas.edu/~jtamir/)<br /> UT Austin |
+|[Paul Hand](http://khoury.northeastern.edu/home/hand/)<br />Northeastern University|[Reinhard Heckel](http://www.reinhardheckel.com/)<br />Technical University of Munich|[Jon Tamir](https://users.ece.utexas.edu/~jtamir/)<br />UT Austin |
 |<img src="/assets/images/Arian.jpg" alt="Arian Maleki" width="225"/>|<img src="/assets/images/Rich.jpg" alt="Rich Baraniuk" width="225"/>|
-|[Arian Maleki](https://sites.google.com/site/malekiarian/)<br /> Columbia University|[Richard Baraniuk](https://richb.rice.edu/)<br /> Rice University|
+|[Arian Maleki](https://sites.google.com/site/malekiarian/)<br />Columbia University|[Richard Baraniuk](https://richb.rice.edu/)<br />Rice University|
 
 
 
