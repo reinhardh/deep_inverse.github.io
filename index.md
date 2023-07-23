@@ -40,6 +40,7 @@ Inverse problems are ubiquitous in science, medicine, and engineering, and resea
 |[Todd Coleman](https://profiles.stanford.edu/266863)<br />Stanford University|[Ben Poole](https://cs.stanford.edu/~poole/)<br />Google Brain|[Kannan Ramchandran](https://people.eecs.berkeley.edu/~kannanr/)<br />UC Berkeley|
 
 # Organizers
+
 |<img src="/assets/images/Chris.jpg" alt="Christopher Metzler" width="225"/>|<img src="/assets/images/Shirin.jpg" alt="Shirin Jalali" width="225"/>|<img src="/assets/images/Ajil.png" alt="Ajil Jalal" width="225"/>|
 |[Christopher Metzler](https://www.cs.umd.edu/~metzler/index.html)<br /> University of Maryland|[Shirin Jalali](https://sites.google.com/site/shirinjalali/home)<br /> Rutgers University|[Ajil Jalal](https://ajiljalal.github.io/)<br /> UC Berkeley|
 |<img src="/assets/images/Paul.jpeg" alt="Paul Hand" width="225"/>|<img src="/assets/images/Reinhard.jpg" alt="Reinhard Heckel" width="225"/>|<img src="/assets/images/Jon.jpg" alt="Jon Tamir" width="225"/>|
