@@ -16,7 +16,6 @@ Inverse problems are ubiquitous in science, medicine, and engineering, and resea
 | 9:00 |	Invited talk 1: [Namrata Vaswani](https://www.ece.iastate.edu/~namrata/) |
 | 9:30 |	Invited talk 2: [Todd Coleman](https://profiles.stanford.edu/266863) |
 | 10:00 |	Contributed talks 1+2	 |
-| 10:00 |	Contributed talks 1+2	 |
 | 10:30 | 	Break and Discussion 1 |
 | 11:00 |	Invited talk 3: [Jong Chul Ye](https://bispl.weebly.com/professor.html) |
 | 11:30 |	Invited talk 4: [Ben Poole](https://cs.stanford.edu/~poole/) |
