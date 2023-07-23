@@ -34,7 +34,7 @@ Inverse problems are ubiquitous in science, medicine, and engineering, and resea
 
 # Speakers
 
-|<img src="/assets/images/Namrata.jpg" alt="Namrata Vaswani" width="225"/>|<img src="/assets/images/ellen.jpg" alt="Ellen Zhong" width="225"/>|<img src="/assets/images/jongchulye.png" alt="Jong Chul Ye" width="225"/>|
+|<img src="/assets/images/namrata.png" alt="Namrata Vaswani" height='225' width="225"/>|<img src="/assets/images/ellen.jpg" alt="Ellen Zhong" width="225"/>|<img src="/assets/images/jongchulye.png" alt="Jong Chul Ye" width="225"/>|
 |[Namrata Vaswani](https://www.ece.iastate.edu/~namrata/)<br />Iowa State University|[Ellen Zhong](https://www.cs.princeton.edu/people/profile/zhonge)<br />Princeton University|[Jong Chul Ye](https://bispl.weebly.com/professor.html)<br />KAIST|
 |<img src="/assets/images/todd.jpg" alt="Todd Coleman" width="225"/>|<img src="/assets/images/ben.png" alt="Ben Poole" width="225"/>|<img src="/assets/images/kannan.jpg" alt="Kannan Ramchandran" width="225"/>|
 |[Todd Coleman](https://profiles.stanford.edu/266863)<br />Stanford University|[Ben Poole](https://cs.stanford.edu/~poole/)<br />Google Brain|[Kannan Ramchandran](https://people.eecs.berkeley.edu/~kannanr/)<br />UC Berkeley|
