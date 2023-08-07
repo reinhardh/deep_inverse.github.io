@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Deep Learning and Inverse Problems
-description: NeurIPS 2023 workshop, Friday December 15, New Orleans
+description: NeurIPS 2023 workshop, December 15 / 16 (TBD), New Orleans
 ---
 
 # Workshop Description
