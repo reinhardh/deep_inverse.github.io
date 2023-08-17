@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Deep Learning and Inverse Problems
-description: NeurIPS 2023 workshop, Either December 15 or 16 (TBD), New Orleans
+description: NeurIPS 2023 workshop, Saturday December 16, New Orleans
 ---
 
 # Workshop Description
@@ -69,7 +69,7 @@ We welcome all submissions in the intersection of inverse problems and deep lear
 - Submission Deadline: September 25, 2023.
 - Notification of acceptance: October 20, 2023.
 <!-- - SlidesLive upload for speaker videos: November 1, 2021 -->
-- Workshop: (TBD) Either December 15 or 16, 2023.
+- Workshop: Saturday, December 16, 2023.
 
 Please email [deepinverse@gmail.com](mailto:deepinverse@gmail.com) with any questions.
 
