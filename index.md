@@ -54,7 +54,7 @@ Inverse problems are ubiquitous in science, medicine, and engineering, and resea
 
 We invite researchers to submit anonymous papers of up to 4 pages (excluding references and appendices) which will be considered for contributed workshop papers. No specific formatting is required. Authors are encouraged to use the [NeurIPS style file](https://neurips.cc/Conferences/2023/PaperInformation/StyleFiles), but they may use any other style as long as it has standard font size (11pt) and margins (1in).
 
-Submission at [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/Deep_Inverse) is open now until the submission deadline on September 25, 2023.
+Submission at [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/Deep_Inverse) is open now until the submission deadline on September 29, 2023 (Anywhere on Earth).
 
 We welcome all submissions in the intersection of inverse problems and deep learning, including but not limited to submissions on the following topics:
 
@@ -66,7 +66,7 @@ We welcome all submissions in the intersection of inverse problems and deep lear
 # Important Dates
 
 
-- Submission Deadline: September 25, 2023.
+- Submission Deadline: September 29, 2023, AoE.
 - Notification of acceptance: October 20, 2023.
 <!-- - SlidesLive upload for speaker videos: November 1, 2021 -->
 - Workshop: Saturday, December 16, 2023.
