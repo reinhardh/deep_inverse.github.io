@@ -66,7 +66,7 @@ We welcome all submissions in the intersection of inverse problems and deep lear
 # Important Dates
 
 
-- Submission Deadline: September 29, 2023, AoE.
+- Submission Deadline: October 6, 2023, 11:59 PM UTC.
 - Notification of acceptance: October 20, 2023.
 <!-- - SlidesLive upload for speaker videos: November 1, 2021 -->
 - Workshop: Saturday, December 16, 2023.
