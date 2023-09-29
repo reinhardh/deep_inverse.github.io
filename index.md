@@ -71,5 +71,15 @@ We welcome all submissions in the intersection of inverse problems and deep lear
 <!-- - SlidesLive upload for speaker videos: November 1, 2021 -->
 - Workshop: Saturday, December 16, 2023.
 
+# Dual Submission Policy
+
+This is a non-archival workshop. Hence, you are allowed to resubmit to
+other venues, as long as the other venue permits it. 
+
+If your main paper was accepted at NeurIPS and you wish to submit to
+this workshop, we expect: (a) the two manuscripts to have sufficient
+differences in experiments or theory, and (b) an author to physically
+present accepted posters on the day of the workshop.
+
 Please email [deepinverse@gmail.com](mailto:deepinverse@gmail.com) with any questions.
 
