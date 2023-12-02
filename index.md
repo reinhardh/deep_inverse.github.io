@@ -14,18 +14,21 @@ Inverse problems are ubiquitous in science, medicine, and engineering, and resea
 | Time (CDT) | Event |
 | --- | --- |
 | 9:00 |	Invited talk 1: [Namrata Vaswani](https://www.ece.iastate.edu/~namrata/) |
-| 9:30 |	Invited talk 2: [Todd Coleman](https://profiles.stanford.edu/266863) |
-| 10:00 |	Contributed talks 1+2	 |
+| 9:30 |	Invited talk 2: [Stella Yu](https://web.eecs.umich.edu/~stellayu/) |
+| 10:00 |	Contributed talk 1: "Model-adapted Fourier sampling for generative compressed sensing", Aaron Berk, Simone Brugiapaglia, Yaniv Plan, Matthew Scott, Xia Sheng, Ozgur Yilmaz |
+| 10:15 |	Contributed talk 2: "AmbientFlow: Invertible generative models from incomplete, noisy imaging measurements", Varun A. Kelkar, Rucha Deshpande, Arindam Banerjee, Mark Anastasio |
 | 10:30 | 	Break and Discussion 1 |
 | 11:00 |	Invited talk 3: [Jong Chul Ye](https://bispl.weebly.com/professor.html) |
 | 11:30 |	Invited talk 4: [Ben Poole](https://cs.stanford.edu/~poole/) |
-| 12:00 |	Contributed talks 3+4 |
+| 12:00 |	Contributed talk 3: "Particle Guidance: non-I.I.D. Diverse Sampling with Diffusion Models", Gabriele Corso, Yilun Xu, Valentin De Bortoli, Regina Barzilay, Tommi Jaakkola |
+| 12:15 |	Contributed talk 4: "Space-Time Implicit Neural Representations for Atomic Electron Tomography on Dynamic Samples", Tiffany Chien, Colin Ophus, Laura Waller |
 | 12:30 |	Lunch break  |
 | 1:30 |	Poster session and Discussion 2 |
 | 3:00 |	Break  |
 | 3:30 |	Invited talk 5: [Kannan Ramchandran](https://people.eecs.berkeley.edu/~kannanr/) |
 | 4:00 |	Invited talk 6: [Ellen Zhong](https://www.cs.princeton.edu/people/profile/zhonge) |
-| 4:30 |	Contributed talks 5 + 6 |
+| 4:30 |	Contributed talk 5: "Provably Convergent Data-Driven Convex-Nonconvex Regularization", Zakhar Shumaylov, Jeremy Budd, Subhadip Mukherjee, Carola-Bibiane Schönlieb |
+| 4:45 |	Contributed talk 6: "Phase Retrieval via Deep Expectation-Consistent Approximation", Saurav K Shastri, Philip Schniter |
 | 5:00 |	Discussion 3  and closing remarks |
 | 5:30 | End of official program |
 
