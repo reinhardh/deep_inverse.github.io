@@ -24,8 +24,8 @@ Inverse problems are ubiquitous in science, medicine, and engineering, and resea
 | 12:15 |	Contributed talk 4: "Space-Time Implicit Neural Representations for Atomic Electron Tomography on Dynamic Samples", Tiffany Chien, Colin Ophus, Laura Waller |
 | 12:30 |	Lunch break  |
 | 1:30 |	Poster session and Discussion 2 |
-| 3:00 |	Break  |
-| 3:30 |	Invited talk 5: [Kannan Ramchandran](https://people.eecs.berkeley.edu/~kannanr/) |
+| 3:00 |	Invited talk 5: [Eric Price](https://www.cs.utexas.edu/~ecprice/) |
+| 3:30 |	Break  |
 | 4:00 |	Invited talk 6: [Ellen Zhong](https://www.cs.princeton.edu/people/profile/zhonge) |
 | 4:30 |	Contributed talk 5: "Provably Convergent Data-Driven Convex-Nonconvex Regularization", Zakhar Shumaylov, Jeremy Budd, Subhadip Mukherjee, Carola-Bibiane Schönlieb |
 | 4:45 |	Contributed talk 6: "Phase Retrieval via Deep Expectation-Consistent Approximation", Saurav K Shastri, Philip Schniter |
@@ -38,8 +38,8 @@ Inverse problems are ubiquitous in science, medicine, and engineering, and resea
 
 |<img src="/assets/images/Namrata.jpg" alt="Namrata Vaswani" width="225"/>|<img src="/assets/images/ellen.jpg" alt="Ellen Zhong" width="225"/>|<img src="/assets/images/jongchulye.png" alt="Jong Chul Ye" width='225'/>|
 |[Namrata Vaswani](https://www.ece.iastate.edu/~namrata/)<br />Iowa State University|[Ellen Zhong](https://www.cs.princeton.edu/people/profile/zhonge)<br />Princeton University|[Jong Chul Ye](https://bispl.weebly.com/professor.html)<br />KAIST|
-|<img src="/assets/images/stella.jpg" alt="Stella Yu" width="225"/>|<img src="/assets/images/ben.png" alt="Ben Poole" width="225"/>|<img src="/assets/images/kannan_crop.jpg" alt="Kannan Ramchandran" width="225"/>|
-|[Stella Yu](https://web.eecs.umich.edu/~stellayu/)<br />University of Michigan, Ann Arbor|[Ben Poole](https://cs.stanford.edu/~poole/)<br />Google Brain|[Kannan Ramchandran](https://people.eecs.berkeley.edu/~kannanr/)<br />UC Berkeley|
+|<img src="/assets/images/stella.jpg" alt="Stella Yu" width="225"/>|<img src="/assets/images/ben.png" alt="Ben Poole" width="225"/>|<img src="/assets/images/ecprice.jpg" alt="Eric Price" width="225"/>|
+|[Stella Yu](https://web.eecs.umich.edu/~stellayu/)<br />University of Michigan, Ann Arbor|[Ben Poole](https://cs.stanford.edu/~poole/)<br />Google Brain|[Eric Price](https://www.cs.utexas.edu/~ecprice/)<br />UT Austin|
 
 # Organizers
 
