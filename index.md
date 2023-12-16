@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Deep Learning and Inverse Problems
-description: NeurIPS 2023 workshop, Saturday December 16, New Orleans
+description: NeurIPS 2023 workshop, Room 214 (Level 2), Saturday December 16, New Orleans
 ---
 
 # Workshop Description
@@ -65,13 +65,14 @@ We welcome all submissions in the intersection of inverse problems and deep lear
 - Diffusion models: Diffusion models have recently gained attention as powerful learned priors for solving inverse problems, due to their ability to model complex high-dimensional data across diverse modalities such as MRI, acoustics, graphs, proteins, etc. What are their benefits and limitations, and what are the optimal algorithms?
 
 
-# Important Dates
+# Important Dates and Logistics
 
 
 - Submission Deadline: October 6, 2023, 11:59 PM UTC.
 - Notification of acceptance: October 20, 2023.
 <!-- - SlidesLive upload for speaker videos: November 1, 2021 -->
 - Workshop: Saturday, December 16, 2023.
+- Location: Room 214, Level 2
 
 # Dual Submission Policy
 
